@@ -16,7 +16,7 @@
 |---------|--------|
 | Material适配博客 | [Material适配博客](android-as-blogs/Material适配博客) |
 | Android-Support-Design博客 | [Android-Support-Design博客](android-as-blogs/Android-Support-Design) |
-
+| Android Data Binding | [Android Data Binding](android-as-blogs/Android-Data-Binding) |
 
 ## Android开发Tips
 | 描述 |  地址  |
@@ -29,6 +29,3 @@
 | 描述 |  地址  |
 |---------|--------|
 | 正确的显示通知栏提示 | [Notification显示通知最佳实践](http://blog.csdn.net/xy_nyle/article/details/19853591) |
-
-
-
