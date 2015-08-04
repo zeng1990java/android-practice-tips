@@ -7,6 +7,7 @@
 | Material适配博客 | [Material适配博客](android-as-blogs/Material适配博客) |
 | Android-Support-Design博客 | [Android-Support-Design博客](android-as-blogs/Android-Support-Design) |
 | Android Data Binding | [Android Data Binding](android-as-blogs/Android-Data-Binding) |
+| Android 性能优化 | [Android 性能优化](android-as-blogs/Android-Performance) |
 
 ## Android开发Tips
 | 描述 |  地址  |
