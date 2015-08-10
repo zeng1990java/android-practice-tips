@@ -11,6 +11,8 @@
 | Android 网络系列 | [Android 网络系列](android-as-blogs/Android-Net) |
 | Android RxJava系列 | [Android RxJava系列](android-as-blogs/Android-RxJava) |
 | Android ImageLoaders | [图片加载系列](android-as-blogs/Android-Imageloaders) |
+| Android Gradle | [Android Gradle相关文章](android-as-blogs/Android-Gradle-blogs) |
+| Android 动画 | [Android 动画相关文章](android-as-blogs/Android-Animators-Blogs) |
 
 ## Android开发轮子
 | 描述 |  地址  |
