@@ -23,6 +23,7 @@
 | 下拉刷新 | [下拉刷新收集](android-as-blogs/Android-Pull-To-Refresh) |
 | ImageLoaders | [图片加载](android-as-blogs/Android-ImageLoaders-libs) |
 | 实用工具 | [实用工具集合](android-as-blogs/Android-Tools-Libs) |
+| 完整项目 | [完整开源项目](android-as-blogs/Android-Open-Source-Projects) |
 
 
 ## Android开发Tips
@@ -32,6 +33,7 @@
 | 判断APP是否在前台运行（前台和后台切换，通用实现） | [APP前后台切换监听通用实现](http://engineering.meetme.com/2015/04/android-determine-when-app-is-opened-or-closed/) |
 | Android平台免Root无侵入AOP框架Dexposed使用详解 | [Android平台免Root无侵入AOP框架Dexposed使用详解](http://www.jianshu.com/p/14edcb444c51) |
 | Android开发中那些让你觉得相见恨晚的方法、类或接口 | [Android开发中那些让你觉得相见恨晚的方法、类或接口](http://www.zhihu.com/question/33636939) |
+| ADB通过WiFi连接手机调试Android应用 | [ADB通过WiFi连接手机调试Android应用](http://segmentfault.com/a/1190000002727029) |
 
 ## Android Studio使用
 | 描述 |  地址  |
