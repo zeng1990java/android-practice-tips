@@ -35,6 +35,7 @@
 | Android开发中那些让你觉得相见恨晚的方法、类或接口 | [Android开发中那些让你觉得相见恨晚的方法、类或接口](http://www.zhihu.com/question/33636939) |
 | ADB通过WiFi连接手机调试Android应用 | [ADB通过WiFi连接手机调试Android应用](http://segmentfault.com/a/1190000002727029) |
 
+
 ## Android Studio使用
 | 描述 |  地址  |
 |---------|--------|
@@ -49,3 +50,9 @@
 | 描述 |  地址  |
 |---------|--------|
 | 正确的显示通知栏提示 | [Notification显示通知最佳实践](http://blog.csdn.net/xy_nyle/article/details/19853591) |
+
+## Java基础
+* [深入理解Java 8 Lambda（语言篇——lambda，方法引用，目标类型和默认方法）](http://www.cnblogs.com/figure9/p/java-8-lambdas-insideout-language-features.html)
+
+## Git
+* [使用git和github进行协同开发流程](http://livoras.com/post/28)
