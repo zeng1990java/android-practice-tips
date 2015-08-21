@@ -13,6 +13,7 @@
 | Android ImageLoaders | [图片加载系列](android-as-blogs/Android-Imageloaders) |
 | Android Gradle | [Android Gradle相关文章](android-as-blogs/Android-Gradle-blogs) |
 | Android 动画 | [Android 动画相关文章](android-as-blogs/Android-Animators-Blogs) |
+| android 架构| [android 架构](android-as-blogs/Android-Architectures) |
 
 ## Android开发轮子
 | 描述 |  地址  |
@@ -45,6 +46,8 @@
 | 描述 |  地址  |
 |---------|--------|
 | 使用不同的Theme实现主题切换 | [使用不同的Theme实现主题切换系列两篇](android-as-blogs/使用不同的Theme实现主题切换系列两篇) |
+| Android中插件开发篇之----类加载器 | [Android中插件开发篇之----类加载器](http://blog.csdn.net/jiangwei0910410003/article/details/41384667) |
+| Android中插件开发篇之----应用换肤原理解析 | [Android中插件开发篇之----应用换肤原理解析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0819/3328.html) |
 
 ## Android Notifications
 | 描述 |  地址  |
