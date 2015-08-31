@@ -26,6 +26,7 @@
 | ImageLoaders | [图片加载](android-as-blogs/Android-ImageLoaders-libs) |
 | 实用工具 | [实用工具集合](android-as-blogs/Android-Tools-Libs) |
 | 完整项目 | [完整开源项目](android-as-blogs/Android-Open-Source-Projects) |
+| views集合 | [view控件集合](android-as-blogs/Android-Views) |
 
 
 ## Android开发Tips
@@ -60,3 +61,4 @@
 
 ## Git
 * [使用git和github进行协同开发流程](http://livoras.com/post/28)
+* [这些git技能够你用一年了](http://blog.jobbole.com/90061/)
