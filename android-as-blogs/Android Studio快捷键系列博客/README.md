@@ -7,3 +7,5 @@ Android Studio快捷键系列博客
 5. [第四篇](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/)
 6. [第五篇](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
 7. [第六篇](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
+
+* [倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)

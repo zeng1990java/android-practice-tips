@@ -9,3 +9,4 @@
 * [新浪微博第三方Android客户端 AisenWeiBo](https://github.com/wangdan/AisenWeiBo)
 * [MVVM_Hacker_News 使用官方Data Binding实现](https://github.com/hitherejoe/MVVM_Hacker_News)
 * [Coding Android客户端源码](https://coding.net/u/coding/p/Coding-Android/git)
+* [更纯净的知乎日报](https://github.com/izzyleung/ZhihuDailyPurify)
