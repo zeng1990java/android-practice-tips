@@ -50,6 +50,7 @@
 | 使用不同的Theme实现主题切换 | [使用不同的Theme实现主题切换系列两篇](android-as-blogs/使用不同的Theme实现主题切换系列两篇) |
 | Android中插件开发篇之----类加载器 | [Android中插件开发篇之----类加载器](http://blog.csdn.net/jiangwei0910410003/article/details/41384667) |
 | Android中插件开发篇之----应用换肤原理解析 | [Android中插件开发篇之----应用换肤原理解析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0819/3328.html) |
+| Android更换主题 | [Android更换主题](http://wuxiaolong.me/2015/08/19/ChangeTheme/) |
 
 ## Android Notifications
 | 描述 |  地址  |
