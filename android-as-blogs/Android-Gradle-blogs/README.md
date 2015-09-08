@@ -12,3 +12,4 @@ Android Gradle相关博客
 * [适合新手的 gradle 自学教程合集](https://testerhome.com/topics/1867)
 <br/>
 我错过了ant时代，我也错过了maven时代，但我不能错过gradle时代！
+* [发布lib到jcenter](https://github.com/andforce/release-android-lib-to-jcenter/blob/master/README.md)
