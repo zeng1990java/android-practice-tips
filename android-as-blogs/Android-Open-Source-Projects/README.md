@@ -11,3 +11,4 @@
 * [Coding Android客户端源码](https://coding.net/u/coding/p/Coding-Android/git)
 * [更纯净的知乎日报](https://github.com/izzyleung/ZhihuDailyPurify)
 * [一款基于Material Design 的开源笔记本应用](https://github.com/lguipeng/Notes)
+* [iBeebo微博客户端](https://github.com/andforce/iBeebo)
