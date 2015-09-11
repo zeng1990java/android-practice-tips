@@ -6,3 +6,4 @@
 * [json字符串转model插件](https://github.com/zzz40500/GsonFormat)
 * [网易开源的监控应用内存，网络，电量等的工具](https://github.com/NetEase/Emmagee)
 * [Android中的layout文件分目录管理插件](https://github.com/dmytrodanylyk/folding-plugin)
+* [square: Clean, lightweight protocol buffers for Android and Java.](https://github.com/square/wire)
