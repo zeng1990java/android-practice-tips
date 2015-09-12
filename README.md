@@ -52,6 +52,8 @@
 | Android中插件开发篇之----应用换肤原理解析 | [Android中插件开发篇之----应用换肤原理解析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0819/3328.html) |
 | Android更换主题 | [Android更换主题](http://wuxiaolong.me/2015/08/19/ChangeTheme/) |
 | 自定义属性方法实现日间，夜间切换 | [Colorful](https://github.com/bboyfeiyu/Colorful) |
+| 日夜间模式切换 | [日夜间模式切换](https://github.com/zzz40500/ThemeDemo) |
+| Android 主题动态切换框架：Prism | [Android 主题动态切换框架：Prism](https://blog.leancloud.cn/3612/) |
 
 ## Android Notifications
 | 描述 |  地址  |
