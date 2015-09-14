@@ -28,6 +28,7 @@
 | 实用工具 | [实用工具集合](android-as-blogs/Android-Tools-Libs) |
 | 完整项目 | [完整开源项目](android-as-blogs/Android-Open-Source-Projects) |
 | views集合 | [view控件集合](android-as-blogs/Android-Views) |
+| square良心出品，必属精品 | [square项目集合](http://square.github.io/) |
 
 
 ## Android开发Tips
