@@ -8,3 +8,4 @@
 * [Android中的layout文件分目录管理插件](https://github.com/dmytrodanylyk/folding-plugin)
 * [square: Clean, lightweight protocol buffers for Android and Java.](https://github.com/square/wire)
 * [java反射调用简化库](https://github.com/jOOQ/jOOR)
+* [square出品，手机摇一摇检测](https://github.com/square/seismic)
