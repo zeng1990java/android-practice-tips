@@ -15,6 +15,7 @@
 | Android 动画 | [Android 动画相关文章](android-as-blogs/Android-Animators-Blogs) |
 | android 架构| [android 架构](android-as-blogs/Android-Architectures) |
 | android 无分类并值得一读的文章 | [android 无分类文章](android-as-blogs/Android-Complex-Blogs) |
+| 天之界线的Android最佳实践系列博文 | [Android最佳实践示例](https://github.com/tianzhijiexian/Android-Best-Practices) |
 
 ## Android开发轮子
 | 描述 |  地址  |
