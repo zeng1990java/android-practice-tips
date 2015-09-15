@@ -19,3 +19,7 @@ Android view控件集合
 
 ## Recyclerview
 * [sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview)
+* [Dividers is a simple Android library to create easy separators for your RecyclerViews](https://github.com/Karumi/Dividers)
+
+## RefreshLayout
+[MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout)
