@@ -27,6 +27,13 @@ Android view控件集合
 ## RefreshLayout
 [MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout)
 
+## ScrollBar
+* [MaterialScrollBar](https://github.com/krimin-killr21/MaterialScrollBar)
+<br/>
+An Android library that brings the Material Design 5.1 scrollbar to pre-5.1 devices. Designed for recyclerViews.
+<br/>[Video](https://youtu.be/CmcPsJYuzME)
+![](http://i.imgur.com/8DNLqkn.png)
+
 ## complex views
 * [MaterialRecents](https://github.com/ZieIony/MaterialRecents)
 <br/>
