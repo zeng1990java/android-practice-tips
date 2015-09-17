@@ -11,6 +11,9 @@ Android view控件集合
 * [水波纹&浪花WashingMachineView](https://github.com/naman14/WashingMachineView)
 * [水波纹WaveView](https://github.com/gelitenight/WaveView)
 
+## TextView
+* [模仿微信朋友圈、QQ说说的评论的人，点赞人可点击效果 ](https://github.com/nimengbo/TextViewSpanClickable)
+
 ## EditText
 * [MaterialTextField](https://github.com/florent37/MaterialTextField)
 
