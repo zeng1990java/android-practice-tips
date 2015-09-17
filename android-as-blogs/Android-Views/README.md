@@ -33,6 +33,8 @@ Android view控件集合
 An Android library that brings the Material Design 5.1 scrollbar to pre-5.1 devices. Designed for recyclerViews.
 <br/>[Video](https://youtu.be/CmcPsJYuzME)
 ![](http://i.imgur.com/8DNLqkn.png)
+* [SnailBar](https://github.com/android-cjj/SnailBar)
+![](http://www.apkbus.com/data/attachment/forum/201509/14/152642n3a5kvn36a6v3m3a.gif)
 
 ## complex views
 * [MaterialRecents](https://github.com/ZieIony/MaterialRecents)
