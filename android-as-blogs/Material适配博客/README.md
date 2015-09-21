@@ -7,3 +7,6 @@ Material适配相关博客
 * [谈谈Android Material Design 中的Tint（着色）](http://segmentfault.com/a/1190000003038675?utm_source=Weibo&utm_medium=shareLink&utm_campaign=socialShare)
 * [awesome-android-ui Android UI集合](https://github.com/wasabeef/awesome-android-ui)
 * [material-sheet-fab](https://github.com/gowong/material-sheet-fab)
+* [薄荷Toolbar(ActionBar)的适配方案](http://www.stormzhang.com/android/2015/08/16/boohee-toolbar/)
+* [Android Toolbar ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)
+####Screenshots	![Image](https://raw.githubusercontent.com/mikepenz/Android-ActionItemBadge/develop/DEV/screenshot/screenshot1_small.png)	![Image](https://raw.githubusercontent.com/mikepenz/Android-ActionItemBadge/develop/DEV/screenshot/screenshot2_small.png)

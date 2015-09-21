@@ -19,3 +19,4 @@ Full Material Design
 <br/>Translucent mode for kitkat or higher
 <br/>Local CSS in WebView
 <br/>Night mode supported
+* [一个简单的记事本app，具有多色彩主题，自带日历视图，记事可以是列表显示也可以是网格显示，提醒功能，隐私保护功能等。](https://github.com/channguyen/pocket-note-android)
