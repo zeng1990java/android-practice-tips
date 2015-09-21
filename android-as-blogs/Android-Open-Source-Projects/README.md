@@ -12,3 +12,10 @@
 * [更纯净的知乎日报](https://github.com/izzyleung/ZhihuDailyPurify)
 * [一款基于Material Design 的开源笔记本应用](https://github.com/lguipeng/Notes)
 * [iBeebo微博客户端](https://github.com/andforce/iBeebo)
+* [a android client for news feed](https://github.com/miao1007/nmid-headline)
+##### Features
+Full Material Design
+<br/>RESTful API Design
+<br/>Translucent mode for kitkat or higher
+<br/>Local CSS in WebView
+<br/>Night mode supported

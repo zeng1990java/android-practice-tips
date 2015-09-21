@@ -13,3 +13,4 @@ Android Gradle相关博客
 <br/>
 我错过了ant时代，我也错过了maven时代，但我不能错过gradle时代！
 * [发布lib到jcenter](https://github.com/andforce/release-android-lib-to-jcenter/blob/master/README.md)
+* [manifestPlaceholders的一些坑](http://blog.saymagic.cn/2015/04/18/build-gradle.html)
