@@ -41,3 +41,6 @@ An Android library that brings the Material Design 5.1 scrollbar to pre-5.1 devi
 <br/>
 ![gif](https://github.com/ZieIony/MaterialRecents/blob/master/images/recents.gif)
 * [android粒子系统](https://github.com/plattysoft/Leonids)
+* [StackOverView](https://github.com/Bossyao168/StackOverView)
+<br/>
+![gif](http://i1060.photobucket.com/albums/t444/bossyao168/2015-04-03%2020_51_50_zpscduimbta.gif)
