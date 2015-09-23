@@ -44,3 +44,19 @@ An Android library that brings the Material Design 5.1 scrollbar to pre-5.1 devi
 * [StackOverView](https://github.com/Bossyao168/StackOverView)
 <br/>
 ![gif](http://i1060.photobucket.com/albums/t444/bossyao168/2015-04-03%2020_51_50_zpscduimbta.gif)
+* [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView)
+<br/>
+![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo12.gif)
+![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo10.gif)
+![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo11.gif)
+![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo13.gif)
+
+![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo1.gif)
+![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo2.gif)
+![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo3.gif)
+![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo4.gif)
+
+![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo5.gif)
+![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo6.gif)
+![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo7.gif)
+![](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo8.gif)
