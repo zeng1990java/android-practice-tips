@@ -13,6 +13,9 @@ Android view控件集合
 
 ## TextView
 * [模仿微信朋友圈、QQ说说的评论的人，点赞人可点击效果 ](https://github.com/nimengbo/TextViewSpanClickable)
+* [A label view. Extends TextView](https://github.com/Frank-Zhu/TriangleRectangleLabelView)
+<br/>
+![](https://raw.githubusercontent.com/Frank-Zhu/TriangleRectangleLabelView/master/art/art.png)
 
 ## EditText
 * [MaterialTextField](https://github.com/florent37/MaterialTextField)
