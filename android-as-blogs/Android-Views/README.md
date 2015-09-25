@@ -6,6 +6,10 @@ Android view控件集合
 
 ## ToolBar
 * [CollapsingAvatarToolbar](https://github.com/Sloy/CollapsingAvatarToolbar)
+* [Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)
+<br/>
+![Image](https://raw.githubusercontent.com/mikepenz/Android-ActionItemBadge/develop/DEV/screenshot/screenshot1_small.png)
+![Image](https://raw.githubusercontent.com/mikepenz/Android-ActionItemBadge/develop/DEV/screenshot/screenshot2_small.png)
 
 ## ProgressViews
 * [水波纹&浪花WashingMachineView](https://github.com/naman14/WashingMachineView)
@@ -16,6 +20,9 @@ Android view控件集合
 * [A label view. Extends TextView](https://github.com/Frank-Zhu/TriangleRectangleLabelView)
 <br/>
 ![](https://raw.githubusercontent.com/Frank-Zhu/TriangleRectangleLabelView/master/art/art.png)
+* [labelview](https://github.com/linger1216/labelview)
+<br/>
+![](https://github.com/linger1216/labelview/blob/master/img/img1.png)
 
 ## EditText
 * [MaterialTextField](https://github.com/florent37/MaterialTextField)
