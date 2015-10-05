@@ -1,6 +1,9 @@
 # Android开发实践总结
 收集Android开发中各种最佳实践的文章
 
+## 最新推荐
+* [Android M 新的运行时权限开发者需要知道的一切](http://jijiaxin89.com/2015/08/30/Android-s-Runtime-Permission/)
+
 ## Android分类文章
 | 描述 |  地址  |
 |---------|--------|
