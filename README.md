@@ -21,6 +21,7 @@
 | android 无分类并值得一读的文章 | [android 无分类文章](android-as-blogs/Android-Complex-Blogs) |
 | 天之界线的Android最佳实践系列博文 | [Android最佳实践示例](https://github.com/tianzhijiexian/Android-Best-Practices) |
 | Android UI处理系列 | [Android UI处理小技巧](android-as-blogs/Android-UI-Tips) |
+| 自定义View | [自定义View](android-as-blogs/Android-Custom-Views) |
 
 ## Android开发轮子
 | 描述 |  地址  |
