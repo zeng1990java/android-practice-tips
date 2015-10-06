@@ -3,6 +3,7 @@
 
 ## 最新推荐
 * [Android M 新的运行时权限开发者需要知道的一切](http://jijiaxin89.com/2015/08/30/Android-s-Runtime-Permission/)
+* [胡凯 Android开发最佳实践](http://hukai.me/android-dev-patterns/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ## Android分类文章
 | 描述 |  地址  |
