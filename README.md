@@ -22,6 +22,7 @@
 | 天之界线的Android最佳实践系列博文 | [Android最佳实践示例](https://github.com/tianzhijiexian/Android-Best-Practices) |
 | Android UI处理系列 | [Android UI处理小技巧](android-as-blogs/Android-UI-Tips) |
 | 自定义View | [自定义View](android-as-blogs/Android-Custom-Views) |
+| Loaders & LoaderManager | [Loaders & LoaderManager](android-as-blogs/Android-Loaders) |
 
 ## Android开发轮子
 | 描述 |  地址  |
