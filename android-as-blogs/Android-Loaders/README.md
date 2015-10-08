@@ -5,3 +5,5 @@ Loaders & LoaderManager
 * [LoaderManager使用详解（二）---了解LoaderManager](http://blog.csdn.net/murphykwu/article/details/35287883)
 * [LoaderManager使用详解（三）---实现Loaders](http://blog.csdn.net/murphykwu/article/details/35288477)
 * [LoaderManager使用详解（四）---实例：AppListLoader](http://blog.csdn.net/murphykwu/article/details/35288753)
+
+* [Android应用Loaders全面详解及源码浅析](http://blog.csdn.net/yanbober/article/details/48861457)
