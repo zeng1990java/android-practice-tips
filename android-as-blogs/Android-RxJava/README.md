@@ -8,3 +8,4 @@ Android RxJava系列
 * [Deferring Observable code until subscription in RxJava](http://blog.danlew.net/2015/07/23/deferring-observable-code-until-subscription-in-rxjava/)
 * [ReactiveX文档中文翻译](http://mcxiaoke.gitbooks.io/rxdocs/content/index.html)
 * [RxDocs](https://github.com/mcxiaoke/RxDocs)
+* [Using Realm with RxJava](https://realm.io/news/using-realm-with-rxjava/)
