@@ -1,6 +1,9 @@
 Android RxJava系列
 ---
 
+## 强烈推荐
+* [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+
 * [大头鬼的RxJava收集](https://github.com/lzyzsd/Awesome-RxJava)
 * [【译】Don't break the chain: use RxJava's compose() operator](http://www.jianshu.com/p/e9e03194199e?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
 * [Don't break the chain: use RxJava's compose() operator](http://blog.danlew.net/2015/03/02/dont-break-the-chain/)
