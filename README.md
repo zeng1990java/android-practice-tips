@@ -74,6 +74,7 @@
 
 ## Java基础
 * [深入理解Java 8 Lambda（语言篇——lambda，方法引用，目标类型和默认方法）](http://www.cnblogs.com/figure9/p/java-8-lambdas-insideout-language-features.html)
+* [Android GC 那点事---QQ空间终端开发团队](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400021278&idx=1&sn=0e971807eb0e9dcc1a81853189a092f3#rd.)
 
 ## Git
 * [使用git和github进行协同开发流程](http://livoras.com/post/28)
