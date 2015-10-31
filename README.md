@@ -44,7 +44,7 @@
 ## Android开发Tips
 | 描述 |  地址  |
 |---------|--------|
-| 判断APP是否在前台运行（前台和后台切换，支持4.0以上） | [APP前后台切换监听4.0以上实现](http://www.androidcn.org/topic/55345ee18ca8a1e07687e9e8#0-tsina-1-96060-397232819ff9a47a7b7e80a40613cfe1) |
+| 判断APP是否在前台运行（前台和后台切换，支持4.0以上） | [APP前后台切换监听（实现ActivityLifecycleCallbacks接口）](http://www.600000300.com/2015/10/14/%E7%9B%91%E5%90%ACAndroid%E6%89%80%E6%9C%89Activity%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/) |
 | 判断APP是否在前台运行（前台和后台切换，通用实现） | [APP前后台切换监听通用实现](http://engineering.meetme.com/2015/04/android-determine-when-app-is-opened-or-closed/) |
 | Android平台免Root无侵入AOP框架Dexposed使用详解 | [Android平台免Root无侵入AOP框架Dexposed使用详解](http://www.jianshu.com/p/14edcb444c51) |
 | Android开发中那些让你觉得相见恨晚的方法、类或接口 | [Android开发中那些让你觉得相见恨晚的方法、类或接口](http://www.zhihu.com/question/33636939) |
