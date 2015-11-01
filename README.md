@@ -6,6 +6,7 @@
 * [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
 * [Android M 新的运行时权限开发者需要知道的一切](http://jijiaxin89.com/2015/08/30/Android-s-Runtime-Permission/)
 * [胡凯 Android开发最佳实践](http://hukai.me/android-dev-patterns/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [Android开源框架分类](http://www.kuqin.com/shuoit/20150909/347960.html)
 
 ## Android分类文章
 | 描述 |  地址  |
