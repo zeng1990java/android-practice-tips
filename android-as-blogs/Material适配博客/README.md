@@ -24,3 +24,6 @@ Material适配相关博客
 * [Ripples – Part 1](https://blog.stylingandroid.com/ripples-part-1/)
 * [Ripples – Part 2](https://blog.stylingandroid.com/ripples-part-2/)
 * [Ripples – Part 3](https://blog.stylingandroid.com/ripples-part-3/)
+
+## Projects
+* [a showcase of material design](https://github.com/nickbutcher/plaid)
