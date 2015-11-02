@@ -11,3 +11,4 @@ Android 图片加载系列文章
 * [glide-transformations](https://github.com/wasabeef/glide-transformations)
 * [开源选型之 Android 三大图片缓存原理、特性对比](http://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=400056342&idx=1&sn=894325d70f16a28bfe8d6a4da31ec304&scene=0#rd)
 * [支持gif的图片预览控件](http://kymjs.com/code/2015/10/18/01/)
+* [Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949)
