@@ -12,3 +12,4 @@
 * [square出品，手机摇一摇检测](https://github.com/square/seismic)
 * [bugtags为移动测试而生](https://github.com/bugtags/Bugtags-Android)
 * [IntelliJ Plugin for Android Parcelable boilerplate code generation.](https://github.com/mcharmas/android-parcelable-intellij-plugin)
+* [eventbus 事件追踪plugin](https://github.com/kgmyshin/eventbus-intellij-plugin)
