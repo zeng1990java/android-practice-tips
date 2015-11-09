@@ -6,3 +6,5 @@ Android 网络系列
 * [Android OkHttp文件上传与下载的进度监听扩展](http://blog.csdn.net/sbsujjbcy/article/details/48194701)
 * [a-smart-way-to-use-retrofit](http://blog.robinchutaux.com/blog/a-smart-way-to-use-retrofit/)
 * [Retrofit 2.0：有史以来最大的改进](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0915/3460.html)
+* [Android 一个改善的okHttp封装库](http://blog.csdn.net/lmj623565791/article/details/49734867)
+* [用 Retrofit 2 简化 HTTP 请求](https://realm.io/cn/news/droidcon-jake-wharton-simple-http-retrofit-2/)

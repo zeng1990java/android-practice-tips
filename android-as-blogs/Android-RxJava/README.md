@@ -13,3 +13,4 @@ Android RxJava系列
 * [RxDocs](https://github.com/mcxiaoke/RxDocs)
 * [Using Realm with RxJava](https://realm.io/news/using-realm-with-rxjava/)
 * [周末终于去学了下RxJava，感觉屌爆了，相见恨晚啊](http://www.licheedev.com/2015/10/26/rxjava-diao-bao-le/)
+* [Architecting Android with RxJava](http://www.jianshu.com/p/943ceaccfdff)
