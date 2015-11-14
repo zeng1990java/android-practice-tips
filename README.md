@@ -29,6 +29,7 @@
 | 自定义View | [自定义View](android-as-blogs/Android-Custom-Views) |
 | Loaders & LoaderManager | [Loaders & LoaderManager](android-as-blogs/Android-Loaders) |
 | Android编程规范专题 | [Android编程规范专题](android-as-blogs/Android-Program-Specification) |
+| kotlin专题 | [kotlin系列文章](android-as-blogs/Android-Kotlin-Blogs) |
 
 ## Android开发轮子
 | 描述 |  地址  |
