@@ -71,6 +71,7 @@
 | 日夜间模式切换 | [日夜间模式切换](https://github.com/zzz40500/ThemeDemo) |
 | Android 主题动态切换框架：Prism | [Android 主题动态切换框架：Prism](https://blog.leancloud.cn/3612/) |
 | 一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity. | [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin) |
+| 日间夜间主题切换 | [NightOwl](https://github.com/ashqal/NightOwl) |
 
 ## Android Notifications
 | 描述 |  地址  |
