@@ -32,6 +32,7 @@
 | Loaders & LoaderManager | [Loaders & LoaderManager](android-as-blogs/Android-Loaders) |
 | Android编程规范专题 | [Android编程规范专题](android-as-blogs/Android-Program-Specification) |
 | kotlin专题 | [kotlin系列文章](android-as-blogs/Android-Kotlin-Blogs) |
+| Java Annotations | [Java Annotations专题](android-as-blogs/Android-Java-Annotations) |
 
 ## Android开发轮子
 | 描述 |  地址  |
