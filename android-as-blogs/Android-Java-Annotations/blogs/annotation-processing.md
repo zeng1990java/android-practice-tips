@@ -719,8 +719,10 @@ public boolean process(Set<? extends TypeElement> annotations, RoundEnvironment 
 
     return true;
 }
+```
 写Java文件，和写其他普通文件没有什么两样。使用Filer提供的Writer对象，我们可以连接字符串来写我们生成的Java代码。幸运的是，Square公司（因为提供了许多非常优秀的开源项目二非常有名）给我们提供了JavaWriter，这是一个高级的生成Java代码的库：
 
+```java
 public class FactoryGroupedClasses {
 
   /**
