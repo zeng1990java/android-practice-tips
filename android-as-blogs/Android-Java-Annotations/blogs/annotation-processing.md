@@ -785,11 +785,13 @@ public class FactoryGroupedClasses {
 一个简单的定义：一个处理循环是调用一个注解处理器的process()方法。对应到我们的工厂模式的例子中：FactoryProcessor被初始化一次（不是每次循环都会新建处理器对象），然而，如果生成了新的源文件process()能够被调用多次。听起来有点奇怪不是么？原因是这样的，这些生成的文件中也可能包含@Factory注解，它们还将会被FactoryProcessor处理。
 
 例如我们的PizzaStore的例子中将会经过3次循环处理：
+
 | Round | Input | | Output |
 |---------|--------|
 | 1 |	CalzonePizza.javaTiramisu.javaMargheritaPizza.java Meal.java PizzaStore.java | MealFactory.java |
 | 2	| MealFactory.java	| — none — |
 | 3 | — none — | — none — |
+
 我解释处理循环还有另外一个原因。如果你看一下我们的FactoryProcessor代码你就能注意到，我们收集数据和保存它们在一个私有的域中Map<String, FactoryGroupedClasses> factoryClasses。在第一轮中，我们检测到了MagheritaPizza, CalzonePizza和Tiramisu，然后生成了MealFactory.java。在第二轮中把MealFactory作为输入。因为在MealFactory中没有检测到@Factory注解，我们预期并没有错误，然而我们得到如下的信息：
 ```java
  Attempt to recreate a file for type com.hannesdorfmann.annotationprocessing101.factory.MealFactory
