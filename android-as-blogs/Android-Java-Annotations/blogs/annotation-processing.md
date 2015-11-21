@@ -837,7 +837,7 @@ public class PizzaStore {
 ```
 * 注意：使用apt的方式而不是provided的方式使用注解库。具体原因[请看](http://www.jianshu.com/p/b5cc2418a712)。感谢[鲍永章](https://github.com/baoyongzhang/)的指导
 
-如果你是一个Android的开发者，你应该也非常熟悉一个叫做ButterKnife的注解处理器。在ButterKnife中，你使用@InjectView注解Android的View。ButterKnifeProcessor生成一个MyActivity$$ViewInjector，但是在ButterKnife你不需要手动调用new MyActivity$$ViewInjector()实例化一个ButterKnife注入的对象，而是使用Butterknife.inject(activity)。ButterKnife内部使用反射机制来实例化MyActivity$$ViewInjector()对象：
+如果你是一个Android的开发者，你应该也非常熟悉一个叫做[ButterKnife](https://github.com/JakeWharton/butterknife)的注解处理器。在ButterKnife中，你使用@InjectView注解Android的View。ButterKnifeProcessor生成一个MyActivity$$ViewInjector，但是在ButterKnife你不需要手动调用new MyActivity$$ViewInjector()实例化一个ButterKnife注入的对象，而是使用Butterknife.inject(activity)。ButterKnife内部使用反射机制来实例化MyActivity$$ViewInjector()对象：
 ```java
 try {  
     Class<?> injector = Class.forName(clsName + "$$ViewInjector");
