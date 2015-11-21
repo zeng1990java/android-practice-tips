@@ -786,7 +786,7 @@ public class FactoryGroupedClasses {
 
 例如我们的PizzaStore的例子中将会经过3次循环处理：
 
-| Round | Input | | Output |
+| Round | Input | Output |
 |---------|--------|
 | 1 |	CalzonePizza.javaTiramisu.javaMargheritaPizza.java Meal.java PizzaStore.java | MealFactory.java |
 | 2	| MealFactory.java	| — none — |
