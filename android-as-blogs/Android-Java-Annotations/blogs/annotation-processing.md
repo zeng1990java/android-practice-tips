@@ -776,18 +776,24 @@ public class FactoryGroupedClasses {
 ```
 * 注意：因为JavaWriter非常非常的流行，所以很多处理器、库、工具都依赖于JavaWriter。如果你使用依赖管理工具，例如maven或者gradle，假如一个库依赖的JavaWriter的版本比其他的库新，这将会导致一些问题。所以我建议你直接拷贝重新打包JavaWiter到你的注解处理器代码中（实际它只是一个Java文件）。
 更新：JavaWrite现在已经被[JavaPoet](https://github.com/square/javapoet)取代了
+
 ### 处理循环
 注解处理过程可能会多于一次。官方javadoc定义处理过程如下：
-| 注解处理过程是一个有序的循环过程。在每次循环中，一个处理器可能被要求去处理那些在上一次循环中产生的源文件和类文件中的注解。第一次循环的输入是运行此工具的初始输入。这些初始输入，可以看成是虚拟的第0次的循环的输出。 |
+
+* 注解处理过程是一个有序的循环过程。在每次循环中，一个处理器可能被要求去处理那些在上一次循环中产生的源文件和类文件中的注解。第一次循环的输入是运行此工具的初始输入。这些初始输入，可以看成是虚拟的第0次的循环的输出。
+
 一个简单的定义：一个处理循环是调用一个注解处理器的process()方法。对应到我们的工厂模式的例子中：FactoryProcessor被初始化一次（不是每次循环都会新建处理器对象），然而，如果生成了新的源文件process()能够被调用多次。听起来有点奇怪不是么？原因是这样的，这些生成的文件中也可能包含@Factory注解，它们还将会被FactoryProcessor处理。
 
 例如我们的PizzaStore的例子中将会经过3次循环处理：
 | Round | Input | | Output |
+|---------|--------|
 | 1 |	CalzonePizza.javaTiramisu.javaMargheritaPizza.java Meal.java PizzaStore.java | MealFactory.java |
 | 2	| MealFactory.java	| — none — |
 | 3 | — none — | — none — |
 我解释处理循环还有另外一个原因。如果你看一下我们的FactoryProcessor代码你就能注意到，我们收集数据和保存它们在一个私有的域中Map<String, FactoryGroupedClasses> factoryClasses。在第一轮中，我们检测到了MagheritaPizza, CalzonePizza和Tiramisu，然后生成了MealFactory.java。在第二轮中把MealFactory作为输入。因为在MealFactory中没有检测到@Factory注解，我们预期并没有错误，然而我们得到如下的信息：
-| Attempt to recreate a file for type com.hannesdorfmann.annotationprocessing101.factory.MealFactory |
+```java
+ Attempt to recreate a file for type com.hannesdorfmann.annotationprocessing101.factory.MealFactory
+```
 这个问题是因为我们没有清除factoryClasses，这意味着，在第二轮的process()中，任然保存着第一轮的数据，并且会尝试生成在第一轮中已经生成的文件，从而导致这个错误的出现。在我们的这个场景中，我们知道只有在第一轮中检查@Factory注解的类，所以我们可以简单的修复这个问题，如下：
 ```java
 @Override
@@ -823,7 +829,7 @@ public class PizzaStore {
   ...
 }
 ```
-| 注意：使用apt的方式而不是provided的方式使用注解库。具体原因[请看](http://www.jianshu.com/p/b5cc2418a712) |
+* 注意：使用apt的方式而不是provided的方式使用注解库。具体原因[请看](http://www.jianshu.com/p/b5cc2418a712) 
 如果你是一个Android的开发者，你应该也非常熟悉一个叫做ButterKnife的注解处理器。在ButterKnife中，你使用@InjectView注解Android的View。ButterKnifeProcessor生成一个MyActivity$$ViewInjector，但是在ButterKnife你不需要手动调用new MyActivity$$ViewInjector()实例化一个ButterKnife注入的对象，而是使用Butterknife.inject(activity)。ButterKnife内部使用反射机制来实例化MyActivity$$ViewInjector()对象：
 ```java
 try {  
