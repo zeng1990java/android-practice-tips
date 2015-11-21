@@ -844,5 +844,5 @@ FragmentArgs非常类似于ButterKnife。它使用反射机制来创建对象，
 作者在youtube上关于Annotation Processing的演讲[Annotation Processing 101](https://www.youtube.com/watch?v=43FFfTyDYEg)
 
 ### 版权
-[翻译原文出处](http://www.codeceo.com/article/java-annotation-processor.html)
-[英文原文](http://hannesdorfmann.com/annotation-processing/annotationprocessing101/)
+* [翻译原文出处](http://www.codeceo.com/article/java-annotation-processor.html)
+* [英文原文](http://hannesdorfmann.com/annotation-processing/annotationprocessing101/)
