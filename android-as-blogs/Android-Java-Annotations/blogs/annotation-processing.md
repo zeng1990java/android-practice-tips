@@ -786,11 +786,13 @@ public class FactoryGroupedClasses {
 
 例如我们的PizzaStore的例子中将会经过3次循环处理：
 
+
 | Round | Input | Output |
-|---------|--------|
-| 1 |	CalzonePizza.javaTiramisu.javaMargheritaPizza.java Meal.java PizzaStore.java | MealFactory.java |
-| 2	| MealFactory.java	| — none — |
-| 3 | — none — | — none — |
+|-------|-------|--------|
+| 1     | CalzonePizza.java,Tiramisu.java,MargheritaPizza.java,Meal.java,PizzaStore.java | MealFactory.java |
+| 2     | MealFactory.java | none |
+| 3     | none | none |
+
 
 我解释处理循环还有另外一个原因。如果你看一下我们的FactoryProcessor代码你就能注意到，我们收集数据和保存它们在一个私有的域中Map<String, FactoryGroupedClasses> factoryClasses。在第一轮中，我们检测到了MagheritaPizza, CalzonePizza和Tiramisu，然后生成了MealFactory.java。在第二轮中把MealFactory作为输入。因为在MealFactory中没有检测到@Factory注解，我们预期并没有错误，然而我们得到如下的信息：
 ```java
