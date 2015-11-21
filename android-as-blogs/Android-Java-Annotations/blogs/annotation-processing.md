@@ -829,7 +829,7 @@ public class PizzaStore {
   ...
 }
 ```
-* 注意：使用apt的方式而不是provided的方式使用注解库。具体原因[请看](http://www.jianshu.com/p/b5cc2418a712) 
+* 注意：使用apt的方式而不是provided的方式使用注解库。具体原因[请看](http://www.jianshu.com/p/b5cc2418a712)
 如果你是一个Android的开发者，你应该也非常熟悉一个叫做ButterKnife的注解处理器。在ButterKnife中，你使用@InjectView注解Android的View。ButterKnifeProcessor生成一个MyActivity$$ViewInjector，但是在ButterKnife你不需要手动调用new MyActivity$$ViewInjector()实例化一个ButterKnife注入的对象，而是使用Butterknife.inject(activity)。ButterKnife内部使用反射机制来实例化MyActivity$$ViewInjector()对象：
 ```java
 try {  
@@ -838,7 +838,7 @@ try {
 ```
 但是反射机制不是很慢么，我们使用注解处理来生成本地代码，会不会导致很多的反射性能的问题？的确，反射机制的性能确实是一个问题。然而，它不需要手动去创建对象，确实提高了开发者的开发速度。ButterKnife中有一个哈希表HashMap来缓存实例化过的对象。所以MyActivity$$ViewInjector只是使用反射机制实例化一次，第二次需要MyActivity$$ViewInjector的时候，就直接冲哈希表中获得。
 
-FragmentArgs非常类似于ButterKnife。它使用反射机制来创建对象，而不需要开发者手动来做这些。FragmentArgs在处理注解的时候生成一个特别的查找表类，它其实就是一种哈希表，所以整个FragmentArgs库只是在第一次使用的时候，执行一次反射调用，一旦整个Class.forName()的Fragemnt的参数对象被创建，后面的都是本地代码运行了。
+[FragmentArgs](https://github.com/sockeqwe/fragmentargs)非常类似于[ButterKnife](https://github.com/JakeWharton/butterknife)。它使用反射机制来创建对象，而不需要开发者手动来做这些。[FragmentArgs](https://github.com/sockeqwe/fragmentargs)在处理注解的时候生成一个特别的查找表类，它其实就是一种哈希表，所以整个[FragmentArgs](https://github.com/sockeqwe/fragmentargs)库只是在第一次使用的时候，执行一次反射调用，一旦整个Class.forName()的Fragemnt的参数对象被创建，后面的都是本地代码运行了。
 
 作为一个注解注解处理器的开发者，这些都由你来决定，为其他的注解器使用者，在反射和可用性上找到一个好的平衡。
 
