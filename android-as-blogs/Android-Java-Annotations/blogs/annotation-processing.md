@@ -583,7 +583,8 @@ public class FactoryProcessor extends AbstractProcessor {
     TypeElement superClassElement =
         elementUtils.getTypeElement(item.getQualifiedFactoryGroupName());
     if (superClassElement.getKind() == ElementKind.INTERFACE) {
-      // 检查接口是否实现了                                       if(!classElement.getInterfaces().contains(superClassElement.asType())) {
+      // 检查接口是否实现了                                       
+      if(!classElement.getInterfaces().contains(superClassElement.asType())) {
         error(classElement, "The class %s annotated with @%s must implement the interface %s",
             classElement.getQualifiedName().toString(), Factory.class.getSimpleName(),
             item.getQualifiedFactoryGroupName());
