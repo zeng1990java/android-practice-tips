@@ -500,6 +500,7 @@ try {
 这里有一点小麻烦，因为这里的类型是一个java.lang.Class。这就意味着，他是一个真正的Class对象。因为<font color=red>注解处理是在编译Java源代码之前</font>。我们需要考虑如下两种情况：
 * 这个类<font color=red>已经被编译</font>：这种情况是：如果第三方.jar包含已编译的被@Factory注解.class文件。在这种情况下，我们可以像try中那块代码中所示直接获取Class。
 * 这个还<font color=red>没有被编译</font>：这种情况是我们尝试编译被@Fractory注解的源代码。这种情况下，直接获取Class会抛出MirroredTypeException异常。幸运的是，MirroredTypeException包含一个TypeMirror，它表示我们未编译类。因为我们已经知道它必定是一个类类型（我们已经在前面检查过），我们可以直接强制转换为DeclaredType，然后读取TypeElement来获取合法的名字。
+
 好了，我们现在还需要一个数据结构FactoryGroupedClasses，它将简单的组合所有的FactoryAnnotatedClasses到一起。
 ```java
 public class FactoryGroupedClasses {
