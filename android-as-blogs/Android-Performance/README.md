@@ -8,3 +8,5 @@ Android 性能优化
 * [性能优化总结](https://github.com/android-cn/android-discuss/issues/254)
 * [Android应用开发性能优化完全分析](http://blog.csdn.net/yanbober/article/details/48394201)
 * [Android应用启动优化:一种DelayLoad的实现和原理](http://androidperformance.com/2015/11/18/Android-app-lunch-optimize-delay-load.html)
+* [【凯子哥带你学Android】Andriod性能优化之列表卡顿——以“简书”APP为例](http://blog.csdn.net/zhaokaiqiang1992/article/details/49951095)
+* [Android冷启动时间优化](http://blog.waynell.com/android/2015/11/17/android-cold-start.html)
