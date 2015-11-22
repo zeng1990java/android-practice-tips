@@ -56,7 +56,7 @@ public class MyProcessor extends AbstractProcessor {
 接下来的你必须知道的事情是，注解处理器是运行在它自己的虚拟机JVM中的。是的，你没有看错，javac启动一个完整Java虚拟机来运行注解处理器。这对你意味着什么？你可以使用任何你在其他java应用中使用的的东西。使用guava。如果你愿意，你可以使用依赖注入工具，例如dagger或者其他你想要的类库。但是不要忘记，即使是一个很小的处理，你也要像其他Java应用一样，注意算法效率，以及[设计模式](http://www.codeceo.com/article/category/develop/design-patterns)。
 
 ### 注册你的处理器
-你可能会问，我怎样处理器MyProcessor到javac中。你必须提供一个.jar文件。就像其他.jar文件一样，你打包你的注解处理器到此文件中。并且，在你的jar中，你需要打包一个特定的文件javax.annotation.processing.Processor到META-INF/services路径下。所以，你的.jar文件看起来就像下面这样：
+你可能会问，我怎样注册处理器MyProcessor到javac中。你必须提供一个.jar文件。就像其他.jar文件一样，打包你的注解处理器到此文件中。并且，在你的jar中，你需要打包一个特定的文件javax.annotation.processing.Processor到META-INF/services路径下。所以，你的.jar文件看起来就像下面这样：
 ```java
 MyProcessor.jar
 	- com
