@@ -10,3 +10,4 @@ Android 性能优化
 * [Android应用启动优化:一种DelayLoad的实现和原理](http://androidperformance.com/2015/11/18/Android-app-lunch-optimize-delay-load.html)
 * [【凯子哥带你学Android】Andriod性能优化之列表卡顿——以“简书”APP为例](http://blog.csdn.net/zhaokaiqiang1992/article/details/49951095)
 * [Android冷启动时间优化](http://blog.waynell.com/android/2015/11/17/android-cold-start.html)
+* [关于Android中图片大小、内存占用与drawable文件夹关系的研究与分析](http://blog.csdn.net/zhaokaiqiang1992/article/details/49787117)
