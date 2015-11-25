@@ -2,7 +2,7 @@ Android 图片加载系列文章
 ---
 
 * [Picasso v/s Imageloader v/s Fresco vs Glide](http://stackoverflow.com/questions/29363321/picasso-v-s-imageloader-v-s-fresco-vs-glide)
-* [Yelp是如何通过Glide优化图片加载的](http://www.devtf.cn/?p=959)
+* [Yelp是如何通过Glide优化图片加载的](blogs/yelp_android_imageload_with_glide.md)
 * [Google推荐的图片加载库Glide介绍](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0327/2650.html)
 * [Introduction to Glide, Image Loader Library for Android, recommended by Google](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
 * [Android的媒体管理框架:Glide 3.0发布](http://www.infoq.com/cn/news/2014/09/android-glide)
