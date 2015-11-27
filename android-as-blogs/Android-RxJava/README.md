@@ -14,3 +14,8 @@ Android RxJava系列
 * [Using Realm with RxJava](https://realm.io/news/using-realm-with-rxjava/)
 * [周末终于去学了下RxJava，感觉屌爆了，相见恨晚啊](http://www.licheedev.com/2015/10/26/rxjava-diao-bao-le/)
 * [Architecting Android with RxJava](http://www.jianshu.com/p/943ceaccfdff)
+
+---
+* [谜之RxJava （一） —— 最基本的观察者模式](http://segmentfault.com/a/1190000004049490)
+* [谜之RxJava （二） —— Magic Lift](http://segmentfault.com/a/1190000004049841)
+* [迷之RxJava （三）—— 线程切换](http://segmentfault.com/a/1190000004051191)
