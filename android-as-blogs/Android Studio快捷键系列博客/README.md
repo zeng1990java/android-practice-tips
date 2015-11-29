@@ -9,3 +9,4 @@ Android Studio快捷键系列博客
 7. [第六篇](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
 
 * [倍数提高工作效率的Android Studio奇技](http://zlv.me/posts/2015/07/13/14_android-studio-tips/)
+* [Android Studio for Experts：Edit](http://www.jianshu.com/p/c873441be31e)
