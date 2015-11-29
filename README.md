@@ -62,6 +62,7 @@
 | 描述 |  地址  |
 |---------|--------|
 | Android Studio快捷键系列博客 | [Android Studio快捷键系列博客](android-as-blogs/Android Studio快捷键系列博客) |
+| 自定义Android 代码生成模版 | [打造更好用的 Android Studio：添加 Templates 以及改造 gradle-projects](http://www.jianshu.com/p/5d7b0d84f693) |
 
 ## Android主题切换
 | 描述 |  地址  |
