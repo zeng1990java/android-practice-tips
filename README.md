@@ -10,7 +10,6 @@
 * [Android开源框架分类](http://www.kuqin.com/shuoit/20150909/347960.html)
 * [Android 开发中，有哪些坑需要注意？](http://zhuanlan.zhihu.com/zmywly8866/20309921)
 * [Android批量打包极速版](http://ihongqiqu.com/blog/2015/07/16/android-mutiple-channel-build/)
-* [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
 
 ## Android分类文章
 | 描述 |  地址  |
@@ -33,6 +32,7 @@
 | Android编程规范专题 | [Android编程规范专题](android-as-blogs/Android-Program-Specification) |
 | kotlin专题 | [kotlin系列文章](android-as-blogs/Android-Kotlin-Blogs) |
 | Java Annotations | [Java Annotations专题](android-as-blogs/Android-Java-Annotations) |
+| Android热修复 | [Android动态加载技术](android-as-blogs/Android-Dynamical-Loading) |
 
 ## Android开发轮子
 | 描述 |  地址  |
