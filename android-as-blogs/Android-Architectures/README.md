@@ -10,3 +10,4 @@ Android 架构
 
 ### 项目
 * [to MVVM using RxJava with new Android databinding](https://github.com/ffgiraldez/rx-mvvm-android)
+* [mr-mantou-android](https://github.com/oxoooo/mr-mantou-android)
