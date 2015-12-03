@@ -12,3 +12,7 @@ Android 架构
 * [to MVVM using RxJava with new Android databinding](https://github.com/ffgiraldez/rx-mvvm-android)
 * [mr-mantou-android-MVVM](https://github.com/oxoooo/mr-mantou-android)
 * [GankDaily-MVP](https://github.com/maoruibin/GankDaily)
+* [phphub-android-MVP](https://github.com/CycloneAxe/phphub-android)
+
+### 工具
+* [nucleus-MVP](https://github.com/konmik/nucleus)
