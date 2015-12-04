@@ -13,6 +13,7 @@ Android 架构
 * [mr-mantou-android-MVVM](https://github.com/oxoooo/mr-mantou-android)
 * [GankDaily-MVP](https://github.com/maoruibin/GankDaily)
 * [phphub-android-MVP](https://github.com/CycloneAxe/phphub-android)
+* [KSimpleLibrary-MVP](https://github.com/kot32go/KSimpleLibrary)
 
 ### 工具
 * [nucleus-MVP](https://github.com/konmik/nucleus)
