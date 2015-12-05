@@ -14,3 +14,4 @@
 * [IntelliJ Plugin for Android Parcelable boilerplate code generation.](https://github.com/mcharmas/android-parcelable-intellij-plugin)
 * [eventbus 事件追踪plugin](https://github.com/kgmyshin/eventbus-intellij-plugin)
 * [otto 事件追踪plugin](https://github.com/square/otto-intellij-plugin)
+* [methodscount（一个计算lib方法数的插件）](http://www.methodscount.com/)
