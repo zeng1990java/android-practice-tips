@@ -16,3 +16,4 @@
 * [otto 事件追踪plugin](https://github.com/square/otto-intellij-plugin)
 * [methodscount（一个计算lib方法数的插件）](http://www.methodscount.com/)
 * [innerbuilder(一个用于生成内部Builder类的AS插件)](https://github.com/analytically/innerbuilder)
+* [知乎问答－Android Studio有哪些非常好用的插件](http://www.zhihu.com/question/28527388)
