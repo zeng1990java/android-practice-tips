@@ -7,6 +7,7 @@ Android 架构
 * [界面之下：还原真实的 MVC、MVP、MVVM 模式](http://www.lvsec.cn/1312.html)
 * [用MVP架构开发Android应用](http://kymjs.com/code/2015/11/09/01/)
 * [Android MVP模式 简单易懂的介绍方式](http://kaedea.com/2015/10/11/android-mvp-pattern/)
+* [重构 Plaid app - 响应式的MVP模式(一)](http://hanks.xyz/2015/12/08/refactoring-plaid-1/)
 
 ### 项目
 * [to MVVM using RxJava with new Android databinding](https://github.com/ffgiraldez/rx-mvvm-android)
