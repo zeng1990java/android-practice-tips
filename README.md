@@ -90,3 +90,4 @@
 * [使用git和github进行协同开发流程](http://livoras.com/post/28)
 * [这些git技能够你用一年了](http://blog.jobbole.com/90061/)
 * [将Library上传到Jcenter](http://www.jianshu.com/p/0ba8960f80a9)
+* [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
