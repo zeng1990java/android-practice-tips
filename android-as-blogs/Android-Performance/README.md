@@ -12,3 +12,4 @@ Android 性能优化
 * [Android冷启动时间优化](http://blog.waynell.com/android/2015/11/17/android-cold-start.html)
 * [关于Android中图片大小、内存占用与drawable文件夹关系的研究与分析](http://blog.csdn.net/zhaokaiqiang1992/article/details/49787117)
 * [Android App 性能优化实践](http://www.imooc.com/article/2607)
+* [Android 中 SQLite 性能优化](http://droidyue.com/blog/2015/12/13/android-sqlite-tuning/)
