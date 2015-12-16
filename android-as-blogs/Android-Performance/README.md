@@ -13,3 +13,4 @@ Android 性能优化
 * [关于Android中图片大小、内存占用与drawable文件夹关系的研究与分析](http://blog.csdn.net/zhaokaiqiang1992/article/details/49787117)
 * [Android App 性能优化实践](http://www.imooc.com/article/2607)
 * [Android 中 SQLite 性能优化](http://droidyue.com/blog/2015/12/13/android-sqlite-tuning/)
+* [Android内存优化杂谈](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a&scene=0&key=ac89cba618d2d9769bc3006ae6f052433e9addebbf0099674296838d889f7d2c4098d859550e3bf2f6b53b3483336fec&ascene=7&uin=MTgxNDQ2NzkyMg%3D%3D&devicetype=android-19&version=26030832&nettype=ctlte&pass_ticket=LuET1X%2BVwvmFOKoypeaRevizrPu8nav3c69WqE2ynS2F%2BUBstsQr9bD%2FYhH3gEAj)
