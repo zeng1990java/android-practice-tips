@@ -18,6 +18,7 @@ Android 架构
 * [GankDaily-MVP](https://github.com/maoruibin/GankDaily)
 * [phphub-android-MVP](https://github.com/CycloneAxe/phphub-android)
 * [KSimpleLibrary-MVP](https://github.com/kot32go/KSimpleLibrary)
+* [Material-Movies-MVP](https://github.com/saulmm/Material-Movies)
 
 ### 工具
 * [nucleus-MVP](https://github.com/konmik/nucleus)
