@@ -11,6 +11,7 @@
 * [Android 开发中，有哪些坑需要注意？](http://zhuanlan.zhihu.com/zmywly8866/20309921)
 * [Android批量打包极速版](http://ihongqiqu.com/blog/2015/07/16/android-mutiple-channel-build/)
 * [安卓开发中遇到的重难点解析，也包括平常的读书笔记和知识点整理](https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis)
+* [EventBus源码研读](http://kymjs.com/code/2015/12/12/01/)
 
 ## Android分类文章
 | 描述 |  地址  |
