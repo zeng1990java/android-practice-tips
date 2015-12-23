@@ -94,6 +94,7 @@
 * [这些git技能够你用一年了](http://blog.jobbole.com/90061/)
 * [将Library上传到Jcenter](http://www.jianshu.com/p/0ba8960f80a9)
 * [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+* [Git 撤销合并](http://blog.psjay.com/posts/git-revert-merge-commit/)
 
 ## HTML5
 * [H5 缓存机制浅析 移动端 Web 加载性能优化](http://segmentfault.com/a/1190000004132566)
