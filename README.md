@@ -16,6 +16,7 @@
 ## Android分类文章
 | 描述 |  地址  |
 |---------|--------|
+| Android基础 | [Android 基础系列](android-as-blogs/Android-Bases) |
 | Material适配博客 | [Material适配博客](android-as-blogs/Material适配博客) |
 | Android-Support-Design博客 | [Android-Support-Design博客](android-as-blogs/Android-Support-Design) |
 | Android Data Binding | [Android Data Binding](android-as-blogs/Android-Data-Binding) |
