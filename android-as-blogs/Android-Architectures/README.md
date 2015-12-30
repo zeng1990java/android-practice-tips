@@ -23,6 +23,7 @@ Android 架构
 * [KSimpleLibrary-MVP](https://github.com/kot32go/KSimpleLibrary)
 * [Material-Movies-MVP](https://github.com/saulmm/Material-Movies)
 * [SimpleNews-MVP](https://github.com/liuling07/SimpleNews)
+* [qualitymatters](https://github.com/artem-zinnatullin/qualitymatters)
 
 ### 工具
 * [nucleus-MVP](https://github.com/konmik/nucleus)
