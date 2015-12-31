@@ -8,6 +8,7 @@ Android 网络系列
 * [Retrofit 2.0：有史以来最大的改进](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0915/3460.html)
 * [Android 一个改善的okHttp封装库](http://blog.csdn.net/lmj623565791/article/details/49734867)
 * [用 Retrofit 2 简化 HTTP 请求](https://realm.io/cn/news/droidcon-jake-wharton-simple-http-retrofit-2/)
+* [Retrofit — Getting Started and Create an Android Client](https://futurestud.io/blog/retrofit-getting-started-and-android-client)
 
 ### 网络工具相关
 * [如何利用mitmproxy来批量修改Android中HTTP流量](https://greenrobot.me/devpost/how-to-use-mitmproxy-custom-android-api-call/)
