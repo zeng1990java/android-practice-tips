@@ -18,3 +18,5 @@
 * [innerbuilder(一个用于生成内部Builder类的AS插件)](https://github.com/analytically/innerbuilder)
 * [知乎问答－Android Studio有哪些非常好用的插件](http://www.zhihu.com/question/28527388)
 * [octotree－浏览github&gitlab资源的浏览器插件](https://github.com/buunguyen/octotree)
+
+* [FileDownloader文件下载工具](https://github.com/lingochamp/FileDownloader)
