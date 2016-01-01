@@ -27,5 +27,9 @@ Material适配相关博客
 * [Ripples – Part 2](https://blog.stylingandroid.com/ripples-part-2/)
 * [Ripples – Part 3](https://blog.stylingandroid.com/ripples-part-3/)
 
+## Transition Animators
+* [理论加配合结合，讲的非常好](http://www.androiddesignpatterns.com/2014/12/activity-fragment-transitions-in-android-lollipop-part1.html)
+* [这个博客里面有几篇例子，代码值得学习](https://halfthought.wordpress.com/)
+
 ## Projects
 * [a showcase of material design](https://github.com/nickbutcher/plaid)
