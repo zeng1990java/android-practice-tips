@@ -69,6 +69,7 @@
 | Android Studio快捷键系列博客 | [Android Studio快捷键系列博客](android-as-blogs/Android Studio快捷键系列博客) |
 | 自定义Android 代码生成模版 | [打造更好用的 Android Studio：添加 Templates 以及改造 gradle-projects](http://www.jianshu.com/p/5d7b0d84f693) |
 | Android Studio调试 | [Android Studio你不知道的调试技巧](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/) |
+| Android Studio Jar、so、library项目依赖 | [Android Studio Jar、so、library项目依赖](http://rocko.xyz/2014/12/13/Android-Studio-jar%E3%80%81so%E3%80%81library%E9%A1%B9%E7%9B%AE%E4%BE%9D%E8%B5%96/) |
 
 ## Android主题切换
 | 描述 |  地址  |
