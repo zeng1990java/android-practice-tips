@@ -15,6 +15,7 @@ Android 架构
 * [MVC，MVP 和 MVVM 的图示](http://www.ruanyifeng.com/blog/2015/02/mvcmvp_mvvm.html)
 * [MVP模式在Android项目中的使用](http://www.liuling123.com/2015/12/mvp-pattern-android.html)
 * [Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0#.94z6877p3)
+* [MVVM_Android-CleanArchitecture](http://segmentfault.com/a/1190000003966281)
 
 ### 项目
 * [to MVVM using RxJava with new Android databinding](https://github.com/ffgiraldez/rx-mvvm-android)
@@ -25,6 +26,7 @@ Android 架构
 * [Material-Movies-MVP](https://github.com/saulmm/Material-Movies)
 * [SimpleNews-MVP](https://github.com/liuling07/SimpleNews)
 * [qualitymatters](https://github.com/artem-zinnatullin/qualitymatters)
+* [MVVM_Android-CleanArchitecture](https://github.com/zhengxiaopeng/MVVM_Android-CleanArchitecture)
 
 ### 工具
 * [nucleus-MVP](https://github.com/konmik/nucleus)
