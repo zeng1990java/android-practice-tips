@@ -14,6 +14,7 @@ Material适配相关博客
 * [material-sheet-fab](https://github.com/gowong/material-sheet-fab)
 * [薄荷Toolbar(ActionBar)的适配方案](http://www.stormzhang.com/android/2015/08/16/boohee-toolbar/)
 * [Android Toolbar ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge)
+* [解决共享元素在系统UI上绘制的问题](http://rocko.xyz/2015/06/19/%E3%80%90%E8%AF%91%E3%80%91%E8%A7%A3%E5%86%B3%E5%85%B1%E4%BA%AB%E5%85%83%E7%B4%A0%E5%9C%A8%E7%B3%BB%E7%BB%9FUI%E4%B8%8A%E7%BB%98%E5%88%B6%E7%9A%84%E9%97%AE%E9%A2%98/)
 <br/>
 ### Screenshots
 <br/>	![Image](https://raw.githubusercontent.com/mikepenz/Android-ActionItemBadge/develop/DEV/screenshot/screenshot1_small.png)	![Image](https://raw.githubusercontent.com/mikepenz/Android-ActionItemBadge/develop/DEV/screenshot/screenshot2_small.png)
