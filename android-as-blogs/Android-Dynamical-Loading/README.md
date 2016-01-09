@@ -9,3 +9,6 @@ Android动态加载技术
 * [Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
 * [关于MultiDex方案的一点研究与思考](http://blog.csdn.net/zhaokaiqiang1992/article/details/50412975)
 * [深入理解Android（三）：Xposed详解](http://www.infoq.com/cn/articles/android-in-depth-xposed)
+
+## 框架
+* [Small](https://github.com/wequick/Small)
