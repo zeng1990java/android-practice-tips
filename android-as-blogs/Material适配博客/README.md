@@ -29,6 +29,9 @@ Material适配相关博客
 ## Camera
 * [material-camera](https://github.com/afollestad/material-camera)
 
+## Dialog
+* [material-dialogs](https://github.com/afollestad/material-dialogs)
+
 ## Ripples
 * [Ripples – Part 1](https://blog.stylingandroid.com/ripples-part-1/)
 * [Ripples – Part 2](https://blog.stylingandroid.com/ripples-part-2/)
