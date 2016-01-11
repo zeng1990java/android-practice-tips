@@ -26,6 +26,9 @@ Material适配相关博客
 ## Toolbar
 * [replaces the stock contextual action bar to allow more customization](https://github.com/afollestad/material-cab)
 
+## Camera
+* [material-camera](https://github.com/afollestad/material-camera)
+
 ## Ripples
 * [Ripples – Part 1](https://blog.stylingandroid.com/ripples-part-1/)
 * [Ripples – Part 2](https://blog.stylingandroid.com/ripples-part-2/)
