@@ -16,6 +16,7 @@ Android 架构
 * [MVP模式在Android项目中的使用](http://www.liuling123.com/2015/12/mvp-pattern-android.html)
 * [Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0#.94z6877p3)
 * [MVVM_Android-CleanArchitecture](http://segmentfault.com/a/1190000003966281)
+* [Flux架构与Android](http://www.devtf.cn/?p=1193)
 
 ### 项目
 * [to MVVM using RxJava with new Android databinding](https://github.com/ffgiraldez/rx-mvvm-android)
