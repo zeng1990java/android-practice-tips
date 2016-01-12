@@ -83,6 +83,7 @@
 | Android 主题动态切换框架：Prism | [Android 主题动态切换框架：Prism](https://blog.leancloud.cn/3612/) |
 | 一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity. | [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin) |
 | 日间夜间主题切换 | [NightOwl](https://github.com/ashqal/NightOwl) |
+| 颜色主题切换 | [app-theme-engine](https://github.com/afollestad/app-theme-engine) |
 
 ## Android Notifications
 | 描述 |  地址  |
