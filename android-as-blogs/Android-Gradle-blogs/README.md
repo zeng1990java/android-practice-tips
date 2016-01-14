@@ -16,3 +16,12 @@ Android Gradle相关博客
 * [manifestPlaceholders的一些坑](http://blog.saymagic.cn/2015/04/18/build-gradle.html)
 * [Android打包的那些事-(Gradle打包好文，强烈推荐！！！)](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 * [深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
+
+## Gradle for android翻译
+* [Gradle for Android 第一篇( 从 Gradle 和 AS 开始 )](http://segmentfault.com/a/1190000004229002)
+* [Gradle for Android 第二篇( Build.gradle入门 )](http://segmentfault.com/a/1190000004234712?_ea=538654)
+* [Gradle for Android 第三篇( 依赖管理 )](http://segmentfault.com/a/1190000004237922)
+* [Gradle for Android 第四篇( 构建变体 )](http://segmentfault.com/a/1190000004241503)
+* [Gradle for Android 第五篇( 多模块构建 )](http://segmentfault.com/a/1190000004247809)
+* [Gradle for Android 第六篇( 测试)](http://segmentfault.com/a/1190000004260141)
+* [Gradle for Android 第七篇( Groovy入门 )](http://segmentfault.com/a/1190000004276167)
