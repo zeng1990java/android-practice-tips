@@ -10,3 +10,6 @@ Android UI处理小技巧
 
 ## RecyclerView
 * [RecyclerView: 带头部的 Grid 布局](http://blog.sqisland.com/2014/12/recyclerview-grid-with-header.html)
+
+## 魅族相关
+* [浅谈NavigationBar高度的获取](http://faywong.github.io/posts/2015-11-26-01.html)
