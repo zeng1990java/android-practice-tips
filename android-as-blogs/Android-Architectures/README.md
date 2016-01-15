@@ -18,6 +18,8 @@ Android 架构
 * [MVVM_Android-CleanArchitecture](http://segmentfault.com/a/1190000003966281)
 * [Flux架构与Android](http://www.devtf.cn/?p=1193)
 
+* [Android架构文章合集](https://github.com/Juude/Awesome-Android-Architecture/)
+
 ### 项目
 * [to MVVM using RxJava with new Android databinding](https://github.com/ffgiraldez/rx-mvvm-android)
 * [mr-mantou-android-MVVM](https://github.com/oxoooo/mr-mantou-android)
