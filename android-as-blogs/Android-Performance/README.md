@@ -18,3 +18,4 @@ Android 性能优化
 * [性能优化模式](http://tech.meituan.com/performance_tuning_pattern.html)
 * [记一次 ListView 性能优化过程](http://kymjs.com/code/2015/11/26/01/)
 * [Android性能优化典范 - 第4季](http://hukai.me/android-performance-patterns-season-4/)
+* [Android UI性能优化详解](http://music4kid.github.io//android/2016/01/11/android-performance-ui/)
