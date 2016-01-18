@@ -1,6 +1,9 @@
 Android view控件集合
 ---
 
+# PhotoPicker图片选自
+* [PhotoPicker-类似微信的图片选择、预览组件](https://github.com/donglua/PhotoPicker)
+
 ## drawer
 * [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer)
 
