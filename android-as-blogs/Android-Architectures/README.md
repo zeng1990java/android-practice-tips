@@ -30,6 +30,7 @@ Android 架构
 * [SimpleNews-MVP](https://github.com/liuling07/SimpleNews)
 * [qualitymatters](https://github.com/artem-zinnatullin/qualitymatters)
 * [MVVM_Android-CleanArchitecture](https://github.com/zhengxiaopeng/MVVM_Android-CleanArchitecture)
+* [Gank.io-MVP](https://github.com/Panl/Gank.io)
 
 ### 工具
 * [nucleus-MVP](https://github.com/konmik/nucleus)

@@ -38,6 +38,7 @@ Android view控件集合
 * [Dividers is a simple Android library to create easy separators for your RecyclerViews](https://github.com/Karumi/Dividers)
 * [XRecyclerView-(集成下拉刷新，加载更多，Header, Footer)](https://github.com/jianghejie/XRecyclerView)
 * [RecyclerView的使用与提升](http://lovinghuan.com/2015/11/26/RecyclerView%E7%9A%84%E4%BD%BF%E7%94%A8%E5%92%8C%E6%8F%90%E5%8D%87/)
+* [Paginate-简化加载更多](https://github.com/MarkoMilos/Paginate)
 
 ## RefreshLayout
 [MaterialRefreshLayout](https://github.com/android-cjj/Android-MaterialRefreshLayout)
