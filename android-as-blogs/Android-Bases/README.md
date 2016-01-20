@@ -13,3 +13,6 @@ Android 基础系列
 * [Android大图片裁剪终极解决方案（上：原理分析）](http://ryanhoo.github.io/blog/2014/05/26/the-ultimate-approach-to-crop-photos-on-android-1/)
 * [Android大图片裁剪终极解决方案（中：从相册截图）](http://ryanhoo.github.io/blog/2014/06/03/the-ultimate-approach-to-crop-photos-on-android-2/)
 * [Android大图片裁剪终极解决方案（下：拍照截图](http://ryanhoo.github.io/blog/2014/06/03/the-ultimate-approach-to-crop-photos-on-android-3/)
+
+## 奔溃处理
+* [Android平台的崩溃捕获机制及实现](http://geek.csdn.net/news/detail/50839)
