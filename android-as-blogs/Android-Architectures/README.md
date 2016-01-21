@@ -32,6 +32,7 @@ Android 架构
 * [qualitymatters](https://github.com/artem-zinnatullin/qualitymatters)
 * [MVVM_Android-CleanArchitecture](https://github.com/zhengxiaopeng/MVVM_Android-CleanArchitecture)
 * [Gank.io-MVP](https://github.com/Panl/Gank.io)
+* [archi-MVP-MVVM](https://github.com/ivacf/archi)
 
 ### 工具
 * [nucleus-MVP](https://github.com/konmik/nucleus)
