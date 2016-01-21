@@ -17,6 +17,7 @@ Android 架构
 * [Android Basic Project Architecture for MVP](https://medium.com/mobiwise-blog/android-basic-project-architecture-for-mvp-72f4b33252d0#.94z6877p3)
 * [MVVM_Android-CleanArchitecture](http://segmentfault.com/a/1190000003966281)
 * [Flux架构与Android](http://www.devtf.cn/?p=1193)
+* [Android的MVP设计模式](http://blog.waynell.com/2015/05/29/mvp-on-android/)
 
 * [Android架构文章合集](https://github.com/Juude/Awesome-Android-Architecture/)
 
