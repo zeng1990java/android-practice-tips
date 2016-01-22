@@ -20,3 +20,4 @@ Android 性能优化
 * [Android性能优化典范 - 第4季](http://hukai.me/android-performance-patterns-season-4/)
 * [Android UI性能优化详解](http://music4kid.github.io//android/2016/01/11/android-performance-ui/)
 * [Android 开发绕不过的坑：你的 Bitmap 究竟占多大内存](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=498&fromuid=6)
+* [Android中导致内存泄漏的竟然是它----Dialog](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=516&fromuid=6)
