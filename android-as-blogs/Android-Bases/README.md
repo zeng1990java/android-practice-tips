@@ -16,3 +16,6 @@ Android 基础系列
 
 ## 奔溃处理
 * [Android平台的崩溃捕获机制及实现](http://geek.csdn.net/news/detail/50839)
+
+## Notification
+* [通知工具类(高仿淘宝，网易新闻，微信，应用宝，环聊等等热门App的通知视图)](https://github.com/wenmingvs/NotifyUtil)
