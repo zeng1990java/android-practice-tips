@@ -19,3 +19,6 @@ Android 基础系列
 
 ## Notification
 * [通知工具类(高仿淘宝，网易新闻，微信，应用宝，环聊等等热门App的通知视图)](https://github.com/wenmingvs/NotifyUtil)
+
+## 综合
+* [判断指定App是否位于前台的方法](https://github.com/wenmingvs/AndroidProcess)
