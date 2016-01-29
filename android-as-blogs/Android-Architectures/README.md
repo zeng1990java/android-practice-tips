@@ -33,6 +33,7 @@ Android 架构
 * [MVVM_Android-CleanArchitecture](https://github.com/zhengxiaopeng/MVVM_Android-CleanArchitecture)
 * [Gank.io-MVP](https://github.com/Panl/Gank.io)
 * [archi-MVP-MVVM](https://github.com/ivacf/archi)
+* [V2EXAndroidClient-MVVM](https://github.com/LenaYan/V2EXAndroidClient)
 
 ### 工具
 * [nucleus-MVP](https://github.com/konmik/nucleus)
