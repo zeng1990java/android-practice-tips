@@ -101,6 +101,7 @@
 * [常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 * [Git 撤销合并](http://blog.psjay.com/posts/git-revert-merge-commit/)
 * [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+* [如何使用Android Studio把自己的Android library分享到jCenter和Maven Central](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html)
 
 ## HTML5
 * [H5 缓存机制浅析 移动端 Web 加载性能优化](http://segmentfault.com/a/1190000004132566)
