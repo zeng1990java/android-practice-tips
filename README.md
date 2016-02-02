@@ -84,6 +84,7 @@
 | 一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity. | [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin) |
 | 日间夜间主题切换 | [NightOwl](https://github.com/ashqal/NightOwl) |
 | 颜色主题切换 | [app-theme-engine](https://github.com/afollestad/app-theme-engine) |
+| 一种Android换肤机制的实现 | [一种Android换肤机制的实现](http://eastmoneyandroid.github.io/2016/01/22/android-reskin/#more) |
 
 ## Android Notifications
 | 描述 |  地址  |
