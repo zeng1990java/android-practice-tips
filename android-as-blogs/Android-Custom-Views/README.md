@@ -18,3 +18,4 @@ Android 自定义View
 
 ## 相机
 * [Android自定义相机拍照、图片裁剪的实现](http://liuling123.com/2015/10/custom-camera.html)
+* [Android相机开发那些坑](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=401454605&idx=1&sn=d5a16f6dc13e7581fec08a4e704cd5d0)
