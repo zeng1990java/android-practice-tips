@@ -15,3 +15,6 @@ Android 自定义View
 
 ## Canvas
 * [二十多行代码画太极(Android中的Canvas)](http://blog.csdn.net/u013831257/article/details/50407282)
+
+## 相机
+* [Android自定义相机拍照、图片裁剪的实现](http://liuling123.com/2015/10/custom-camera.html)
