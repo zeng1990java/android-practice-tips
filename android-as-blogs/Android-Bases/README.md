@@ -1,7 +1,12 @@
 Android 基础系列
 ---
 
+
 * [如何选择 compileSdkVersion, minSdkVersion 和 targetSdkVersion](http://chinagdg.org/2016/01/picking-your-compilesdkversion-minsdkversion-targetsdkversion/)
+
+## 控件
+* [Translucent System Bar 的最佳实践](http://www.jianshu.com/p/0acc12c29c1b)
+* [最详细的 Toolbar 开发实践总结](http://www.jianshu.com/p/79604c3ddcae)
 
 ## Service
 * [Service学习笔记](http://www.jianshu.com/p/e3b7954b9c00)
