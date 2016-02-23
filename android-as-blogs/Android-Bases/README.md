@@ -7,6 +7,7 @@ Android 基础系列
 ## 控件
 * [Translucent System Bar 的最佳实践](http://www.jianshu.com/p/0acc12c29c1b)
 * [最详细的 Toolbar 开发实践总结](http://www.jianshu.com/p/79604c3ddcae)
+* [Android4.4及以上版本实现状态栏与顶栏同色](http://fanhongwei.github.io/blog/2015/03/04/android-statusbartint-and-swipebacklayout/)
 
 ## Service
 * [Service学习笔记](http://www.jianshu.com/p/e3b7954b9c00)
