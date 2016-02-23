@@ -25,3 +25,4 @@ Android 性能优化
 
 ## 工具
 * [GT-性能测试工具](https://github.com/TencentOpen/GT)
+* [Android性能分析工具整理汇总](http://www.jianshu.com/p/8b77d394b2a6)
