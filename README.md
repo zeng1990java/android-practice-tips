@@ -5,6 +5,7 @@
 * [Android打包的那些事-(Gradle打包好文，强烈推荐！！！)](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 * [鸿洋个人博客，每一篇质量都很高](http://blog.csdn.net/lmj623565791)
 * [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083)
+* [Android 6.0 运行时权限处理完全解析](http://blog.csdn.net/lmj623565791/article/details/50709663)
 * [Android M 新的运行时权限开发者需要知道的一切](http://jijiaxin89.com/2015/08/30/Android-s-Runtime-Permission/)
 * [胡凯 Android开发最佳实践](http://hukai.me/android-dev-patterns/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [Android开源框架分类](http://www.kuqin.com/shuoit/20150909/347960.html)
