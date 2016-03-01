@@ -13,3 +13,4 @@ Android 图片加载系列文章
 * [支持gif的图片预览控件](http://kymjs.com/code/2015/10/18/01/)
 * [Glide 一个专注于平滑滚动的图片加载和缓存库](http://www.jianshu.com/p/4a3177b57949)
 * [Glide学习](http://blog.csdn.net/fandong12388/article/details/46372255)
+* [Glide使用系列](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
