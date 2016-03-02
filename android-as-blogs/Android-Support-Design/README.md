@@ -13,3 +13,6 @@ Android-Support-Design相关博客
 * [AppBarLayout的越界滚动行为](http://liuling123.com/2016/01/overscroll-appBarLayout-behavior.html)
 * [拦截一切的CoordinatorLayout Behavior](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0224/3991.html)
 * [Android Support Library 23.2有哪些新东西（官网博客翻译）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0226/3996.html)
+
+## 兼容库
+* [smooth-app-bar-layout](https://github.com/henrytao-me/smooth-app-bar-layout)
