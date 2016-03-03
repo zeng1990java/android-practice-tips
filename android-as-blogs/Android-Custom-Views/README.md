@@ -15,6 +15,9 @@ Android 自定义View
 
 ## Canvas
 * [二十多行代码画太极(Android中的Canvas)](http://blog.csdn.net/u013831257/article/details/50407282)
+* [安卓自定义View进阶-Canvas(4) Path1](http://blog.csdn.net/u013831257/article/details/50784565)
+* [Path相关方法讲解(二)](http://blog.csdn.net/tianjian4592/article/details/46955833)
+* [仿支付宝付款成功及"天女散花"效果实现——看PathMeasure大展身手](http://www.jianshu.com/p/610a46fabd1d)
 
 ## 相机
 * [Android自定义相机拍照、图片裁剪的实现](http://liuling123.com/2015/10/custom-camera.html)
