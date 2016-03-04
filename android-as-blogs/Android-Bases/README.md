@@ -33,5 +33,9 @@ Android 基础系列
 ## 运行时权限
 * [聊一聊Android 6.0的运行时权限](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)
 
+## Fragments
+* [Fragment Recreate(1)](http://yanghui.name/blog/2015/09/27/fragment-recreate-1/)
+* [Fragment Recreate(2)](http://yanghui.name/blog/2015/09/28/fragment-recreate-2/)
+
 ## 综合
 * [判断指定App是否位于前台的方法](https://github.com/wenmingvs/AndroidProcess)
