@@ -37,6 +37,7 @@ Android 架构
 * [archi-MVP-MVVM](https://github.com/ivacf/archi)
 * [V2EXAndroidClient-MVVM](https://github.com/LenaYan/V2EXAndroidClient)
 * [MeiziAPP-MVP](https://github.com/xuyunqiang/MeiziAPP)
+* [Rosie](https://github.com/Karumi/Rosie)
 
 ### 工具
 * [nucleus-MVP](https://github.com/konmik/nucleus)
