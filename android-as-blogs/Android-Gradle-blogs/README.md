@@ -16,6 +16,7 @@ Android Gradle相关博客
 * [manifestPlaceholders的一些坑](http://blog.saymagic.cn/2015/04/18/build-gradle.html)
 * [Android打包的那些事-(Gradle打包好文，强烈推荐！！！)](http://www.jayfeng.com/2015/11/07/Android%E6%89%93%E5%8C%85%E7%9A%84%E9%82%A3%E4%BA%9B%E4%BA%8B/)
 * [深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
+* [大型项目 Gradle 的常用库和版本管理](http://www.wangchenlong.org/2016/03/15/manage-gradle-lib-version/)
 
 ## Gradle for android翻译
 * [Gradle for Android 第一篇( 从 Gradle 和 AS 开始 )](http://segmentfault.com/a/1190000004229002)
