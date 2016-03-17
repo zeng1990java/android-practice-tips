@@ -21,5 +21,6 @@
 * [下一代Android打包工具，1000个渠道包只需要5秒钟](https://github.com/mcxiaoke/packer-ng-plugin)
 * [dart Extras "injection" library for Android](https://github.com/f2prateek/dart)
 * [统计gradle task耗时的插件](https://github.com/passy/build-time-tracker-plugin)
+* [ProcessPhoenix重启应用进程](https://github.com/JakeWharton/ProcessPhoenix)
 
 * [FileDownloader文件下载工具](https://github.com/lingochamp/FileDownloader)
