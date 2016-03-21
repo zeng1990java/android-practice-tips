@@ -23,3 +23,4 @@ Full Material Design
 * [一个简单的记事本app，具有多色彩主题，自带日历视图，记事可以是列表显示也可以是网格显示，提醒功能，隐私保护功能等。](https://github.com/channguyen/pocket-note-android)
 * [湘潭大学三翼校园"四季电台" Android客户端](https://github.com/linroid/Sky31Radio/blob/master/app/src/main/AndroidManifest.xml)
 * [Timber-Material Design Music Player](https://github.com/naman14/Timber)
+* [一个看妹纸与开发资讯的Android APP](https://github.com/IvorHu/RealStuff)
