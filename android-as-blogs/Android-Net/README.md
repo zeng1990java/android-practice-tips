@@ -10,6 +10,7 @@ Android 网络系列
 * [用 Retrofit 2 简化 HTTP 请求](https://realm.io/cn/news/droidcon-jake-wharton-simple-http-retrofit-2/)
 * [Retrofit — Getting Started and Create an Android Client](https://futurestud.io/blog/retrofit-getting-started-and-android-client)
 * [Android Retrofit 2.0使用](http://wuxiaolong.me/2016/01/15/retrofit/)
+* [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 
 ### 网络工具相关
 * [如何利用mitmproxy来批量修改Android中HTTP流量](https://greenrobot.me/devpost/how-to-use-mitmproxy-custom-android-api-call/)
