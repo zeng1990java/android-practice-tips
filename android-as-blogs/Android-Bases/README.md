@@ -10,6 +10,10 @@ Android 基础系列
 * [最详细的 NavigationDrawer 开发实践总结](http://www.jianshu.com/p/c8cbeb7ea43a)
 * [Android4.4及以上版本实现状态栏与顶栏同色](http://fanhongwei.github.io/blog/2015/03/04/android-statusbartint-and-swipebacklayout/)
 
+## 动画
+* [浅析Android动画（一），View动画高级实例探究](http://www.cnblogs.com/wondertwo/p/5295976.html)
+* [浅析Android动画（二），属性动画与高级实例探究](http://www.cnblogs.com/wondertwo/p/5312482.html)
+
 ## Dialog
 * [Android：我为何要封装DialogFragment？](http://www.jianshu.com/p/af6499abd5c2?utm_campaign=maleskine&utm_content=note&utm_me)
 
