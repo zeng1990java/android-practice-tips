@@ -39,6 +39,7 @@ Android 架构
 * [MeiziAPP-MVP](https://github.com/xuyunqiang/MeiziAPP)
 * [Rosie](https://github.com/Karumi/Rosie)
 * [FluxyAndroidTodo](https://github.com/armueller/FluxyAndroidTodo)
+* [Idaily-MVVM知乎日报](https://github.com/liuguangqiang/Idaily)
 
 ### 工具
 * [nucleus-MVP](https://github.com/konmik/nucleus)
