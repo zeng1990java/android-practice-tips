@@ -9,6 +9,7 @@ Android 基础系列
 * [最详细的 Toolbar 开发实践总结](http://www.jianshu.com/p/79604c3ddcae)
 * [最详细的 NavigationDrawer 开发实践总结](http://www.jianshu.com/p/c8cbeb7ea43a)
 * [Android4.4及以上版本实现状态栏与顶栏同色](http://fanhongwei.github.io/blog/2015/03/04/android-statusbartint-and-swipebacklayout/)
+* [Android App 沉浸式状态栏解决方案](http://laobie.github.io/android/2016/02/15/status-bar-demo.html)
 
 ## 动画
 * [浅析Android动画（一），View动画高级实例探究](http://www.cnblogs.com/wondertwo/p/5295976.html)
