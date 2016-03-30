@@ -26,6 +26,10 @@ Material适配相关博客
 ## Toolbar
 * [replaces the stock contextual action bar to allow more customization](https://github.com/afollestad/material-cab)
 
+## BottomBar
+* [BottomBar](https://github.com/roughike/BottomBar)
+* [BottomNavigation](https://github.com/Ashok-Varma/BottomNavigation)
+
 ## Camera
 * [material-camera](https://github.com/afollestad/material-camera)
 
