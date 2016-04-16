@@ -20,8 +20,8 @@ Android 架构
 * [Android的MVP设计模式](http://blog.waynell.com/2015/05/29/mvp-on-android/)
 * [Android应用架构 (Android Dev Summit 2015)](http://blog.zhaiyifan.cn/2016/01/29/android-app-architecture-2015/?from=groupmessage&isappinstalled=0)
 * [如何设计MVP中的Presentation层](http://blog.chengdazhi.com/index.php/115)
-
 * [Android架构文章合集](https://github.com/Juude/Awesome-Android-Architecture/)
+* [Android官方MVP架构示例项目解析](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403539764&idx=1&sn=d30d89e6848a8e13d4da0f5639100e5f#rd)
 
 ### 项目
 * [to MVVM using RxJava with new Android databinding](https://github.com/ffgiraldez/rx-mvvm-android)
