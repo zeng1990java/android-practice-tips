@@ -28,3 +28,6 @@ Android 自定义View
 * [twitter like animation for any view](https://github.com/hanks-zyh/SmallBang)
 * [Twitter's heart animation for Android](https://github.com/jd-alexander/LikeButton)
 * [LikeAnimation](https://github.com/frogermcs/LikeAnimation)
+
+## 3D View
+* [3d旋转切换view，类似旋转木马效果](https://github.com/dalong982242260/LoopRotarySwitch)
