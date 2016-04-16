@@ -30,6 +30,9 @@ Android view控件集合
 ## EditText
 * [MaterialTextField](https://github.com/florent37/MaterialTextField)
 
+## WebView
+* [史上最全WebView使用，附送Html5Activity一份](http://www.jianshu.com/p/3fcf8ba18d7f)
+
 ## ViewPager
 * [实现上滑滚动列表以及item左右滑动的库](https://github.com/florent37/MaterialLeanBack)
 
