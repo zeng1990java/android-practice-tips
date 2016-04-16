@@ -15,6 +15,7 @@ Android RxJava系列
 * [周末终于去学了下RxJava，感觉屌爆了，相见恨晚啊](http://www.licheedev.com/2015/10/26/rxjava-diao-bao-le/)
 * [Architecting Android with RxJava](http://www.jianshu.com/p/943ceaccfdff)
 * [可能是东半球最全的RxJava使用场景小结](http://blog.csdn.net/theone10211024/article/details/50435325)
+* [RxJava中的错误处理](http://www.jianshu.com/p/916b72778145)
 
 ---
 * [谜之RxJava （一） —— 最基本的观察者模式](http://segmentfault.com/a/1190000004049490)
