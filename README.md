@@ -87,6 +87,7 @@
 | 日间夜间主题切换 | [NightOwl](https://github.com/ashqal/NightOwl) |
 | 颜色主题切换 | [app-theme-engine](https://github.com/afollestad/app-theme-engine) |
 | 一种Android换肤机制的实现 | [一种Android换肤机制的实现](http://eastmoneyandroid.github.io/2016/01/22/android-reskin/#more) |
+| 夜晚的故事(android夜间模式实现) | [夜晚的故事(android夜间模式实现)](http://www.jianshu.com/p/60608820bb71) |
 
 ## Android Notifications
 | 描述 |  地址  |
