@@ -22,6 +22,7 @@ Material适配相关博客
 * [Ripple effect for Android 14+](https://github.com/ozodrukh/RippleDrawable)
 * [关于使用 CardView 开发过程中要注意的细节](http://blog.feng.moe/2015/10/24/something-about-cardview-development/)
 * [Android Tinting drawables](http://www.devtf.cn/?p=1123)
+* [结合motion和Transition实现共享元素的酷炫动画](https://github.com/hehonghui/android-tech-frontier/blob/master/issue-43/%E7%BB%93%E5%90%88motion%E5%92%8CTransition%E5%AE%9E%E7%8E%B0%E5%85%B1%E4%BA%AB%E5%85%83%E7%B4%A0%E7%9A%84%E9%85%B7%E7%82%AB%E5%8A%A8%E7%94%BB.md)
 
 ## Toolbar
 * [replaces the stock contextual action bar to allow more customization](https://github.com/afollestad/material-cab)
