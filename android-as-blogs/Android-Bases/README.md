@@ -28,6 +28,11 @@ Android 基础系列
 * [Android大图片裁剪终极解决方案（上：原理分析）](http://ryanhoo.github.io/blog/2014/05/26/the-ultimate-approach-to-crop-photos-on-android-1/)
 * [Android大图片裁剪终极解决方案（中：从相册截图）](http://ryanhoo.github.io/blog/2014/06/03/the-ultimate-approach-to-crop-photos-on-android-2/)
 * [Android大图片裁剪终极解决方案（下：拍照截图](http://ryanhoo.github.io/blog/2014/06/03/the-ultimate-approach-to-crop-photos-on-android-3/)
+* [图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作](https://github.com/siwangqishiq/ImageEditor-Android)
+* [Image Cropping Library for Android](https://github.com/Yalantis/uCrop)
+
+## 音频处理
+* [Horizon - Simple visual equaliser for Android](https://github.com/Yalantis/Horizon)
 
 ## 奔溃处理
 * [Android平台的崩溃捕获机制及实现](http://geek.csdn.net/news/detail/50839)
@@ -45,3 +50,4 @@ Android 基础系列
 
 ## 综合
 * [判断指定App是否位于前台的方法](https://github.com/wenmingvs/AndroidProcess)
+* [那些你应该知道却不一定知道的——View坐标分析汇总](http://blog.csdn.net/mr_immortalz/article/details/51168278)
