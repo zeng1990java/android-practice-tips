@@ -31,6 +31,7 @@ Material适配相关博客
 ## BottomBar
 * [BottomBar](https://github.com/roughike/BottomBar)
 * [BottomNavigation](https://github.com/Ashok-Varma/BottomNavigation)
+* [Material-BottomNavigation](https://github.com/sephiroth74/Material-BottomNavigation)
 
 ## Camera
 * [material-camera](https://github.com/afollestad/material-camera)
