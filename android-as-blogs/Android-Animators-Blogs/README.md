@@ -7,3 +7,6 @@ Android 动画相关文章
 * [在RecyclerView上使用布局动画（Layout animation）](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0915/3462.html)
 * [超详细的Material-Animations示例](https://github.com/lgvalle/Material-Animations)
 * [InstaMaterial：正确处理RecyclerView动画](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/1217/3782.html)
+
+## libs
+* [Animation for support-v4 Fragment transition.](https://github.com/kakajika/FragmentAnimations)
