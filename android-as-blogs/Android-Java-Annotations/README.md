@@ -12,3 +12,4 @@ Java Annotations专题
 * [Treasure](https://github.com/baoyongzhang/Treasure)
 * [annotationprocessing101](https://github.com/sockeqwe/annotationprocessing101)
 * [butterknife](https://github.com/JakeWharton/butterknife)
+* [esperandro-Easy SharedPreference Engine for Android](https://github.com/dkunzler/esperandro)
