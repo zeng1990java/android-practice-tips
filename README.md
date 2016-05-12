@@ -40,6 +40,7 @@
 | Android热修复 | [Android动态加载技术](android-as-blogs/Android-Dynamical-Loading) |
 | ReactNative | [ReactNative](android-as-blogs/Android-ReactNative) |
 | Android依赖注入 | [Android依赖注入](android-as-blogs/Android-Di) |
+| 运行时权限适配 | [运行时权限适配](android-as-blogs/Android-Runtime-Permission) |
 
 ## Android开发轮子
 | 描述 |  地址  |
