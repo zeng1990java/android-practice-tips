@@ -24,3 +24,4 @@
 * [ProcessPhoenix重启应用进程](https://github.com/JakeWharton/ProcessPhoenix)
 
 * [FileDownloader文件下载工具](https://github.com/lingochamp/FileDownloader)
+* [可任意定制的app更新组件(umeng更新替换方案)](https://github.com/yjfnypeu/UpdatePlugin)
