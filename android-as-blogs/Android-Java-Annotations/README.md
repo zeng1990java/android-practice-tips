@@ -13,3 +13,10 @@ Java Annotations专题
 * [annotationprocessing101](https://github.com/sockeqwe/annotationprocessing101)
 * [butterknife](https://github.com/JakeWharton/butterknife)
 * [esperandro-Easy SharedPreference Engine for Android](https://github.com/dkunzler/esperandro)
+
+
+### 相关工具库
+* [icepick-状态保存与恢复](https://github.com/frankiesardo/icepick)
+* [fragmentargs-fragment参数传递](https://github.com/sockeqwe/fragmentargs)
+* [IntentBuilder-Activity参数传递](https://github.com/emilsjolander/IntentBuilder)
+* [AutoBundle-fragmentargs和IntentBuilder的结合](https://github.com/yatatsu/AutoBundle)
