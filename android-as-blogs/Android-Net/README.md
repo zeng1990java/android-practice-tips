@@ -13,6 +13,7 @@ Android 网络系列
 * [RxJava 与 Retrofit 结合的最佳实践](http://gank.io/post/56e80c2c677659311bed9841)
 * [Retrofit 2.0 + OkHttp 3.0 配置](https://drakeet.me/retrofit-2-0-okhttp-3-0-config)
 * [网络服务库 Retrofit2 的使用方式](http://www.wangchenlong.org/2016/03/16/1602/use-retrofit-first/)
+* [你真的会用Retrofit2吗?Retrofit2完全教程](http://www.jianshu.com/p/308f3c54abdd)
 
 ### 网络工具相关
 * [如何利用mitmproxy来批量修改Android中HTTP流量](https://greenrobot.me/devpost/how-to-use-mitmproxy-custom-android-api-call/)

@@ -33,6 +33,7 @@ Android 基础系列
 * [Android大图片裁剪终极解决方案（下：拍照截图](http://ryanhoo.github.io/blog/2014/06/03/the-ultimate-approach-to-crop-photos-on-android-3/)
 * [图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作](https://github.com/siwangqishiq/ImageEditor-Android)
 * [Image Cropping Library for Android](https://github.com/Yalantis/uCrop)
+* [你需要知道的 Android 拍照适配方案](http://diycode.cc/topics/101)
 
 ## 音频处理
 * [Horizon - Simple visual equaliser for Android](https://github.com/Yalantis/Horizon)
