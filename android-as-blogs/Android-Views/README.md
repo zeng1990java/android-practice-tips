@@ -14,6 +14,10 @@ Android view控件集合
 ![Image](https://raw.githubusercontent.com/mikepenz/Android-ActionItemBadge/develop/DEV/screenshot/screenshot1_small.png)
 ![Image](https://raw.githubusercontent.com/mikepenz/Android-ActionItemBadge/develop/DEV/screenshot/screenshot2_small.png)
 
+## drawable
+* [用ClipDrawable实现音频录制麦克风讲话效果](http://www.jianshu.com/p/06eca50ddda4)
+* [用RotateDrawable实现网易云音乐唱片机效果](http://www.jianshu.com/p/0e0de2cdd2bb)
+
 ## ProgressViews
 * [水波纹&浪花WashingMachineView](https://github.com/naman14/WashingMachineView)
 * [水波纹WaveView](https://github.com/gelitenight/WaveView)
