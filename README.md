@@ -75,22 +75,6 @@
 | Android Studio调试 | [Android Studio你不知道的调试技巧](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/) |
 | Android Studio Jar、so、library项目依赖 | [Android Studio Jar、so、library项目依赖](http://rocko.xyz/2014/12/13/Android-Studio-jar%E3%80%81so%E3%80%81library%E9%A1%B9%E7%9B%AE%E4%BE%9D%E8%B5%96/) |
 
-## Android主题切换
-| 描述 |  地址  |
-|---------|--------|
-| 使用不同的Theme实现主题切换 | [使用不同的Theme实现主题切换系列两篇](android-as-blogs/使用不同的Theme实现主题切换系列两篇) |
-| Android中插件开发篇之----类加载器 | [Android中插件开发篇之----类加载器](http://blog.csdn.net/jiangwei0910410003/article/details/41384667) |
-| Android中插件开发篇之----应用换肤原理解析 | [Android中插件开发篇之----应用换肤原理解析](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0819/3328.html) |
-| Android更换主题 | [Android更换主题](http://wuxiaolong.me/2015/08/19/ChangeTheme/) |
-| 自定义属性方法实现日间，夜间切换 | [Colorful](https://github.com/bboyfeiyu/Colorful) |
-| 日夜间模式切换 | [日夜间模式切换](https://github.com/zzz40500/ThemeDemo) |
-| Android 主题动态切换框架：Prism | [Android 主题动态切换框架：Prism](https://blog.leancloud.cn/3612/) |
-| 一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity. | [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin) |
-| 日间夜间主题切换 | [NightOwl](https://github.com/ashqal/NightOwl) |
-| 颜色主题切换 | [app-theme-engine](https://github.com/afollestad/app-theme-engine) |
-| 一种Android换肤机制的实现 | [一种Android换肤机制的实现](http://eastmoneyandroid.github.io/2016/01/22/android-reskin/#more) |
-| 夜晚的故事(android夜间模式实现) | [夜晚的故事(android夜间模式实现)](http://www.jianshu.com/p/60608820bb71) |
-
 ## Android Notifications
 | 描述 |  地址  |
 |---------|--------|
@@ -108,6 +92,9 @@
 * [Git 撤销合并](http://blog.psjay.com/posts/git-revert-merge-commit/)
 * [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
 * [如何使用Android Studio把自己的Android library分享到jCenter和Maven Central](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0623/3097.html)
+
+## 主题
+[主题切换](android-as-blogs/使用不同的Theme实现主题切换系列两篇)
 
 ## HTML5
 * [H5 缓存机制浅析 移动端 Web 加载性能优化](http://segmentfault.com/a/1190000004132566)
