@@ -6,7 +6,8 @@ Android Studio快捷键系列博客
 [具体实现项目](https://github.com/hidroh/materialistic)
 
 ---
-[android 实现【夜晚模式】的另外一种思路](https://segmentfault.com/a/1190000005736047)
+* [android 实现【夜晚模式】的另外一种思路](https://segmentfault.com/a/1190000005736047)
+* [Bilibili Android 多主题框架](https://github.com/Bilibili/MagicaSakura)
 
 ## Android主题切换
 | 描述 |  地址  |
