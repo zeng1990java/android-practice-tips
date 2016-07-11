@@ -15,6 +15,7 @@ Android 网络系列
 * [网络服务库 Retrofit2 的使用方式](http://www.wangchenlong.org/2016/03/16/1602/use-retrofit-first/)
 * [你真的会用Retrofit2吗?Retrofit2完全教程](http://www.jianshu.com/p/308f3c54abdd)
 * [深入浅出 Retrofit](http://bugly.qq.com/bbs/forum.php?mod=viewthread&tid=1117#rd)
+* [Retrofit + RxAndroid 实践总结](http://www.jianshu.com/p/f48f6d31314b)
 
 ### 网络工具相关
 * [如何利用mitmproxy来批量修改Android中HTTP流量](https://greenrobot.me/devpost/how-to-use-mitmproxy-custom-android-api-call/)
