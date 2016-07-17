@@ -23,6 +23,7 @@
 * [统计gradle task耗时的插件](https://github.com/passy/build-time-tracker-plugin)
 * [ProcessPhoenix重启应用进程](https://github.com/JakeWharton/ProcessPhoenix)
 * [AndroidProguardPlugin](https://github.com/zhonghanwen/AndroidProguardPlugin)
+* [那些值得你试试的Android竞品分析工具](http://www.jianshu.com/p/ba2d9eca47a2)
 
 * [FileDownloader文件下载工具](https://github.com/lingochamp/FileDownloader)
 * [可任意定制的app更新组件(umeng更新替换方案)](https://github.com/yjfnypeu/UpdatePlugin)
