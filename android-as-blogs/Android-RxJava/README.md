@@ -20,6 +20,7 @@ Android RxJava系列
 * [使用RxJava 提升用户体验](http://www.jianshu.com/p/33c548bce571)
 * [当EventBus遇上RxJava](http://www.easydone.cn/2016/03/29/)
 * [带你学开源项目：RxLifecycle － 当 Activity 被 destory 时自动暂停网络请求](https://gold.xitu.io/entry/5787a3fe5bbb500064916212)
+* [不该使用 RxJava 的一些情况](http://blog.chengyunfeng.com/?p=1009)
 
 ---
 * [谜之RxJava （一） —— 最基本的观察者模式](http://segmentfault.com/a/1190000004049490)
