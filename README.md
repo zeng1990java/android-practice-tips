@@ -98,3 +98,4 @@
 
 ## HTML5
 * [H5 缓存机制浅析 移动端 Web 加载性能优化](http://segmentfault.com/a/1190000004132566)
+* [Android安全开发之浅谈网页打开APP](https://yq.aliyun.com/articles/57088?&utm_source=qq)
