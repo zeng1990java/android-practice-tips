@@ -15,6 +15,7 @@
 * [安卓开发中遇到的重难点解析，也包括平常的读书笔记和知识点整理](https://github.com/ZhaoKaiQiang/AndroidDifficultAnalysis)
 * [EventBus源码研读](http://kymjs.com/code/2015/12/12/01/)
 * [Android 开发实战经验总结](http://www.jianshu.com/p/4f152bc8f4f3#)
+* [浅谈Android自定义锁屏页的发车姿势](http://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231949&idx=1&sn=c5de2b2a719644392ddc756a6c6d5920)
 
 ## Android分类文章
 | 描述 |  地址  |
