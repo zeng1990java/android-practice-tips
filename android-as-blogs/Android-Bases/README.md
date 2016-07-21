@@ -38,6 +38,7 @@ Android 基础系列
 * [图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作](https://github.com/siwangqishiq/ImageEditor-Android)
 * [Image Cropping Library for Android](https://github.com/Yalantis/uCrop)
 * [你需要知道的 Android 拍照适配方案](http://diycode.cc/topics/101)
+* [滤镜相机，可拍照、录像、图片修改](https://github.com/wuhaoyu1990/MagicCamera)
 
 ## 音频处理
 * [Horizon - Simple visual equaliser for Android](https://github.com/Yalantis/Horizon)
