@@ -25,6 +25,9 @@ Android 基础系列
 * [Service学习笔记](http://www.jianshu.com/p/e3b7954b9c00)
 * [IntentService教给我什么](http://www.jianshu.com/p/85169ca537f7)
 
+## AIDL
+* [你真的理解AIDL中的in，out，inout么？](http://blog.csdn.net/luoyanglizi/article/details/51958091)
+
 ## Fragment
 * [Fragment全解析系列（一）：那些年踩过的坑](http://www.jianshu.com/p/d9143a92ad94)
 * [Fragment全解析系列（二）：正确的使用姿势](http://www.jianshu.com/p/fd71d65f0ec6)
