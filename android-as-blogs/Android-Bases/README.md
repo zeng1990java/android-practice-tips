@@ -11,6 +11,10 @@ Android 基础系列
 * [Android4.4及以上版本实现状态栏与顶栏同色](http://fanhongwei.github.io/blog/2015/03/04/android-statusbartint-and-swipebacklayout/)
 * [Android App 沉浸式状态栏解决方案](http://laobie.github.io/android/2016/02/15/status-bar-demo.html)
 
+## Matrix
+* [深入理解 Android 中的 Matrix](http://www.jianshu.com/p/6aa6080373ab)
+* [Matrix原理](https://github.com/GcsSloop/AndroidNote/blob/master/CustomView/Advance/%5B09%5DMatrix_Basic.md)
+
 ## drawables
 * [Android drawable微技巧，你所不知道的drawable的那些细节](http://blog.csdn.net/guolin_blog/article/details/50727753)
 
