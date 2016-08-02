@@ -18,6 +18,10 @@ Android 基础系列
 ## drawables
 * [Android drawable微技巧，你所不知道的drawable的那些细节](http://blog.csdn.net/guolin_blog/article/details/50727753)
 
+## Path
+* [贝塞尔曲线开发的艺术](http://www.jianshu.com/p/55c721887568)
+* [PathMeasure之迷径追踪](http://www.jianshu.com/p/3efa5341abcc)
+
 ## 动画
 * [浅析Android动画（一），View动画高级实例探究](http://www.cnblogs.com/wondertwo/p/5295976.html)
 * [浅析Android动画（二），属性动画与高级实例探究](http://www.cnblogs.com/wondertwo/p/5312482.html)
